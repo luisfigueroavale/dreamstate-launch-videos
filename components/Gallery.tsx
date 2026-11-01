@@ -53,7 +53,10 @@ export default function Gallery({ cards, hooks, categories }: { cards: Card[]; h
     const key = (c: Card): number | null => (sort === "date" ? (c.date ? Date.parse(c.date) : null) : c[sort]);
     return list.sort((a, z) => {
       const x = key(a), y = key(z);
-      if (x === null && y === null) return (a.company ?? "").localeCompare(z.company ?? "");
+      if (x === null && y === null) {
+        if (a.company === null || z.company === null) return a.company === null ? (z.company === null ? 0 : 1) : -1;
+        return a.company.localeCompare(z.company);
+      }
       if (x === null) return 1;
       if (y === null) return -1;
       return y - x;
