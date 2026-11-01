@@ -1,0 +1,33 @@
+{
+  "id": "x-2062576589875937420",
+  "company": "Micro",
+  "product": null,
+  "title": "Micro launch",
+  "posted_by": "@thatguybg",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/thatguybg/status/2062576589875937420",
+  "post_date": "2026-06-04",
+  "duration_seconds": 149,
+  "excerpt": "AI has terrible memory Introducing Micro, an agent that remembers more than Claude, Codex & OpenClaw Leave a",
+  "hook_family": "objection-ownership",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 835400,
+      "likes": 606,
+      "reposts": 82,
+      "replies": 241,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an objection ownership line. That label comes from the post text, not from watching the video. Reported 835,400 views and 606 likes on the gallery listing, a like rate of 0.07 percent, below the library median of 0.56 percent. At 149 seconds it compares best with the 120 second structure."
+}

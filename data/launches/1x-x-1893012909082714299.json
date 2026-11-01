@@ -1,0 +1,96 @@
+{
+  "id": "x-1893012909082714299",
+  "company": "1X",
+  "product": "NEO Gamma",
+  "title": "1X NEO Gamma launch",
+  "posted_by": "@1x_tech",
+  "owner": "third-party",
+  "category": "robotics",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/1x_tech/status/1893012909082714299",
+  "post_date": "2025-02-21",
+  "duration_seconds": 37.2,
+  "excerpt": "Introducing NEO Gamma. Another step closer to home.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 3.12
+    },
+    {
+      "start": 3.12,
+      "end": 4.25
+    },
+    {
+      "start": 4.25,
+      "end": 8.83
+    },
+    {
+      "start": 8.83,
+      "end": 13.42
+    },
+    {
+      "start": 13.42,
+      "end": 15.42
+    },
+    {
+      "start": 15.42,
+      "end": 17.96
+    },
+    {
+      "start": 17.96,
+      "end": 19.92
+    },
+    {
+      "start": 19.92,
+      "end": 22.5
+    },
+    {
+      "start": 22.5,
+      "end": 25.17
+    },
+    {
+      "start": 25.17,
+      "end": 28.46
+    },
+    {
+      "start": 28.46,
+      "end": 30.21
+    },
+    {
+      "start": 30.21,
+      "end": 32.0
+    },
+    {
+      "start": 32.0,
+      "end": 37.16
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 10222080,
+      "likes": 29936,
+      "reposts": 4588,
+      "replies": 2179,
+      "bookmarks": 7647
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 10204230,
+      "likes": 30399,
+      "reposts": 4692,
+      "replies": 2211,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 10,222,080 views and 29,936 likes on the post itself, a like rate of 0.29 percent, below the library median of 0.56 percent. At 37 seconds it compares best with the 30 second structure. Scene detection found 13 shots, about 2.9 seconds each, with the first cut at 3.1 seconds."
+}

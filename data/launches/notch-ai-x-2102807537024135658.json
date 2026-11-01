@@ -1,0 +1,102 @@
+{
+  "id": "x-2102807537024135658",
+  "company": "Notch AI",
+  "product": null,
+  "title": "Notch AI launch",
+  "posted_by": "@vinayjain404",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/vinayjain404/status/2102807537024135658",
+  "post_date": "2026-09-23",
+  "duration_seconds": 118.3,
+  "excerpt": "AI can run a brand better than humans. We ran a brand with ONLY AI agents to prove",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 10.13
+    },
+    {
+      "start": 10.13,
+      "end": 15.37
+    },
+    {
+      "start": 15.37,
+      "end": 22.97
+    },
+    {
+      "start": 22.97,
+      "end": 24.27
+    },
+    {
+      "start": 24.27,
+      "end": 29.4
+    },
+    {
+      "start": 29.4,
+      "end": 50.17
+    },
+    {
+      "start": 50.17,
+      "end": 52.2
+    },
+    {
+      "start": 52.2,
+      "end": 57.67
+    },
+    {
+      "start": 57.67,
+      "end": 71.47
+    },
+    {
+      "start": 71.47,
+      "end": 82.1
+    },
+    {
+      "start": 82.1,
+      "end": 88.13
+    },
+    {
+      "start": 88.13,
+      "end": 104.53
+    },
+    {
+      "start": 104.53,
+      "end": 113.6
+    },
+    {
+      "start": 113.6,
+      "end": 113.7
+    },
+    {
+      "start": 113.7,
+      "end": 115.17
+    },
+    {
+      "start": 115.17,
+      "end": 118.2
+    },
+    {
+      "start": 118.2,
+      "end": 118.29
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 780934,
+      "likes": 1256,
+      "reposts": 125,
+      "replies": 223,
+      "bookmarks": 2096
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 780,934 views and 1,256 likes on the post itself, a like rate of 0.16 percent, below the library median of 0.56 percent. At 118 seconds it compares best with the 120 second structure. Scene detection found 17 shots, about 7.0 seconds each, with the first cut at 10.1 seconds."
+}

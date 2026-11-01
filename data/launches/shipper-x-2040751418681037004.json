@@ -1,0 +1,33 @@
+{
+  "id": "x-2040751418681037004",
+  "company": "Shipper",
+  "product": null,
+  "title": "Shipper launches Vibe Coding 2.0",
+  "posted_by": "@shipper_now",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/shipper_now/status/2040751418681037004",
+  "post_date": "2026-04-05",
+  "duration_seconds": 42,
+  "excerpt": "BREAKING: Vibe Coding 2.0 is here 🚨 From today on, Claude Opus 4.6 in Shipper can build and",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 4473,
+      "likes": 64,
+      "reposts": 21,
+      "replies": 32,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 4,473 views and 64 likes on the gallery listing, a like rate of 1.43 percent, above the library median of 0.56 percent. At 42 seconds it compares best with the 30 second structure."
+}

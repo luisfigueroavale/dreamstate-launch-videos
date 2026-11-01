@@ -1,0 +1,108 @@
+{
+  "id": "x-1948017850809270314",
+  "company": "Lovable",
+  "product": null,
+  "title": "Lovable launch",
+  "posted_by": "@antonosika",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/antonosika/status/1948017850809270314",
+  "post_date": "2025-07-23",
+  "duration_seconds": 108.1,
+  "excerpt": "Lovable just crossed $100M ARR in 8 months. Today we're launching a game-changing update, it reduces the error",
+  "hook_family": "measurable-stakes",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 5.76
+    },
+    {
+      "start": 5.76,
+      "end": 8.52
+    },
+    {
+      "start": 8.52,
+      "end": 10.64
+    },
+    {
+      "start": 10.64,
+      "end": 13.64
+    },
+    {
+      "start": 13.64,
+      "end": 17.08
+    },
+    {
+      "start": 17.08,
+      "end": 18.44
+    },
+    {
+      "start": 18.44,
+      "end": 59.56
+    },
+    {
+      "start": 59.56,
+      "end": 66.64
+    },
+    {
+      "start": 66.64,
+      "end": 69.48
+    },
+    {
+      "start": 69.48,
+      "end": 78.72
+    },
+    {
+      "start": 78.72,
+      "end": 83.48
+    },
+    {
+      "start": 83.48,
+      "end": 89.0
+    },
+    {
+      "start": 89.0,
+      "end": 92.4
+    },
+    {
+      "start": 92.4,
+      "end": 94.64
+    },
+    {
+      "start": 94.64,
+      "end": 106.56
+    },
+    {
+      "start": 106.56,
+      "end": 108.14
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2559071,
+      "likes": 7033,
+      "reposts": 923,
+      "replies": 972,
+      "bookmarks": 3272
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 2546814,
+      "likes": 7089,
+      "reposts": 945,
+      "replies": 991,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a measurable stakes line. That label comes from the post text, not from watching the video. Reported 2,559,071 views and 7,033 likes on the post itself, a like rate of 0.27 percent, below the library median of 0.56 percent. At 108 seconds it compares best with the 120 second structure. Scene detection found 16 shots, about 6.8 seconds each, with the first cut at 5.8 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

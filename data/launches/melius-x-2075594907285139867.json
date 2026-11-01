@@ -1,0 +1,70 @@
+{
+  "id": "x-2075594907285139867",
+  "company": "Melius",
+  "product": null,
+  "title": "Melius launch",
+  "posted_by": "@n0w00j",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/n0w00j/status/2075594907285139867",
+  "post_date": "2026-07-10",
+  "duration_seconds": 111.8,
+  "excerpt": "If you’re a creative not using AI you’re fcked. Introducing Melius: the world’s first creative canvas for agents.",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "start": 0.2,
+      "end": 3.73
+    },
+    {
+      "start": 3.73,
+      "end": 9.47
+    },
+    {
+      "start": 9.47,
+      "end": 10.77
+    },
+    {
+      "start": 10.77,
+      "end": 12.23
+    },
+    {
+      "start": 12.23,
+      "end": 39.27
+    },
+    {
+      "start": 39.27,
+      "end": 62.1
+    },
+    {
+      "start": 62.1,
+      "end": 109.33
+    },
+    {
+      "start": 109.33,
+      "end": 111.85
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2768906,
+      "likes": 2216,
+      "reposts": 162,
+      "replies": 383,
+      "bookmarks": 2228
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 2,768,906 views and 2,216 likes on the post itself, a like rate of 0.08 percent, below the library median of 0.56 percent. At 112 seconds it compares best with the 120 second structure. Scene detection found 9 shots, about 12.4 seconds each, with the first cut at 0.2 seconds."
+}

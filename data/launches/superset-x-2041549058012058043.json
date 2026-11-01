@@ -1,0 +1,33 @@
+{
+  "id": "x-2041549058012058043",
+  "company": "Superset",
+  "product": null,
+  "title": "Superset launch",
+  "posted_by": "@superset_sh",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/superset_sh/status/2041549058012058043",
+  "post_date": "2026-04-07",
+  "duration_seconds": 35,
+  "excerpt": "introducing superset the IDE for the AI agent era stop waiting on coding agents run them in parallel",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 727209,
+      "likes": 1004,
+      "reposts": 73,
+      "replies": 121,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 727,209 views and 1,004 likes on the gallery listing, a like rate of 0.14 percent, below the library median of 0.56 percent. At 35 seconds it compares best with the 30 second structure."
+}

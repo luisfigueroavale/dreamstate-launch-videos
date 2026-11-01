@@ -1,0 +1,148 @@
+{
+  "id": "x-2061889596703551926",
+  "company": "Cognition",
+  "product": "Devin Desktop",
+  "title": "Cognition Devin Desktop launch",
+  "posted_by": "@cognition",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/cognition/status/2061889596703551926",
+  "post_date": "2026-06-02",
+  "duration_seconds": 44.7,
+  "excerpt": "Introducing Devin Desktop. Manage fleets of local and cloud agents from one surface. Plan, delegate, review, and ship",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 1.63
+    },
+    {
+      "start": 1.63,
+      "end": 2.96
+    },
+    {
+      "start": 2.96,
+      "end": 3.8
+    },
+    {
+      "start": 3.8,
+      "end": 3.88
+    },
+    {
+      "start": 3.88,
+      "end": 4.59
+    },
+    {
+      "start": 4.59,
+      "end": 8.88
+    },
+    {
+      "start": 8.88,
+      "end": 9.76
+    },
+    {
+      "start": 9.76,
+      "end": 9.8
+    },
+    {
+      "start": 9.8,
+      "end": 10.22
+    },
+    {
+      "start": 10.22,
+      "end": 11.18
+    },
+    {
+      "start": 11.18,
+      "end": 16.22
+    },
+    {
+      "start": 16.22,
+      "end": 18.1
+    },
+    {
+      "start": 18.1,
+      "end": 19.23
+    },
+    {
+      "start": 19.23,
+      "end": 20.1
+    },
+    {
+      "start": 20.1,
+      "end": 20.6
+    },
+    {
+      "start": 20.6,
+      "end": 22.11
+    },
+    {
+      "start": 22.11,
+      "end": 23.36
+    },
+    {
+      "start": 23.36,
+      "end": 23.82
+    },
+    {
+      "start": 23.82,
+      "end": 24.32
+    },
+    {
+      "start": 24.32,
+      "end": 25.07
+    },
+    {
+      "start": 25.07,
+      "end": 25.94
+    },
+    {
+      "start": 25.94,
+      "end": 26.86
+    },
+    {
+      "start": 26.86,
+      "end": 27.53
+    },
+    {
+      "start": 27.53,
+      "end": 28.61
+    },
+    {
+      "start": 28.61,
+      "end": 38.54
+    },
+    {
+      "start": 38.54,
+      "end": 44.65
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 3213466,
+      "likes": 1581,
+      "reposts": 155,
+      "replies": 121,
+      "bookmarks": 768
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 3177421,
+      "likes": 1588,
+      "reposts": 161,
+      "replies": 117,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 3,213,466 views and 1,581 likes on the post itself, a like rate of 0.05 percent, below the library median of 0.56 percent. At 45 seconds it compares best with the 30 second structure. Scene detection found 26 shots, about 1.7 seconds each, with the first cut at 1.6 seconds."
+}

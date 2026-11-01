@@ -1,0 +1,33 @@
+{
+  "id": "x-2059678355138449477",
+  "company": "Daydream",
+  "product": null,
+  "title": "Daydream exits stealth and open-sources live AI tool",
+  "posted_by": "@viborc",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/viborc/status/2059678355138449477",
+  "post_date": "2026-05-27",
+  "duration_seconds": 77,
+  "excerpt": "Something we've been working on for a while, going out of stealth and open-sourcing it. With huge kudos",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 2240,
+      "likes": 17,
+      "reposts": 1,
+      "replies": 3,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 2,240 views and 17 likes on the gallery listing, a like rate of 0.76 percent, above the library median of 0.56 percent. At 77 seconds it compares best with the 90 second structure."
+}

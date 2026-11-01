@@ -1,0 +1,80 @@
+{
+  "id": "x-2059265865573409258",
+  "company": "Co-Invest",
+  "product": null,
+  "title": "Co-Invest AI trading / ChatGPT integration",
+  "posted_by": "@liquidtrading",
+  "owner": "third-party",
+  "category": "fintech",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/liquidtrading/status/2059265865573409258",
+  "post_date": "2026-05-26",
+  "duration_seconds": 60.2,
+  "excerpt": "Introducing Co-Invest. (@coinvestai) The first way to trade directly through ChatGPT and Claude.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 8.83
+    },
+    {
+      "start": 8.83,
+      "end": 10.04
+    },
+    {
+      "start": 10.04,
+      "end": 13.08
+    },
+    {
+      "start": 13.08,
+      "end": 13.54
+    },
+    {
+      "start": 13.54,
+      "end": 13.67
+    },
+    {
+      "start": 13.67,
+      "end": 13.92
+    },
+    {
+      "start": 13.92,
+      "end": 17.92
+    },
+    {
+      "start": 17.92,
+      "end": 19.92
+    },
+    {
+      "start": 19.92,
+      "end": 60.16
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 3783796,
+      "likes": 2385,
+      "reposts": 175,
+      "replies": 210,
+      "bookmarks": 2085
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 3763283,
+      "likes": 2459,
+      "reposts": 184,
+      "replies": 217,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 3,783,796 views and 2,385 likes on the post itself, a like rate of 0.06 percent, below the library median of 0.56 percent. At 60 seconds it compares best with the 60 second structure. Scene detection found 9 shots, about 6.7 seconds each, with the first cut at 8.8 seconds."
+}

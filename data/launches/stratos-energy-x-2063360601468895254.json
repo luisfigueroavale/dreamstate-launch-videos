@@ -1,0 +1,33 @@
+{
+  "id": "x-2063360601468895254",
+  "company": "Stratos Energy",
+  "product": null,
+  "title": "Stratos Energy team intro",
+  "posted_by": "@david1wuoha",
+  "owner": "third-party",
+  "category": "energy-climate",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/david1wuoha/status/2063360601468895254",
+  "post_date": "2026-06-06",
+  "duration_seconds": 80,
+  "excerpt": "Meet the team behind Stratos. A mathematician and product designer. A chemist and UI/UX designer. Two geoscientists and",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 237,
+      "likes": 26,
+      "reposts": 11,
+      "replies": 11,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 237 views and 26 likes on the gallery listing, a like rate of 10.97 percent, above the library median of 0.56 percent. At 80 seconds it compares best with the 90 second structure."
+}

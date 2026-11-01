@@ -1,0 +1,33 @@
+{
+  "id": "x-2062541055866835233",
+  "company": "Droppable AI",
+  "product": null,
+  "title": "Droppable AI launches click-to-edit Shopify theme builder",
+  "posted_by": "@chris_mccaw",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/chris_mccaw/status/2062541055866835233",
+  "post_date": "2026-06-04",
+  "duration_seconds": 51,
+  "excerpt": "I just launched my second Shopify app 🚀 It's called Droppable AI. - Think Lovable, but for Shopify",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 186,
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 186 views and 0 likes on the gallery listing, a like rate of 0.00 percent, below the library median of 0.56 percent. At 51 seconds it compares best with the 60 second structure."
+}

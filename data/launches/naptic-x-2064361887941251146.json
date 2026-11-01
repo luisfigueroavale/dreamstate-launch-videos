@@ -1,0 +1,33 @@
+{
+  "id": "x-2064361887941251146",
+  "company": "Naptic",
+  "product": null,
+  "title": "Naptic launch",
+  "posted_by": "@anubhabgoel",
+  "owner": "third-party",
+  "category": "other",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/anubhabgoel/status/2064361887941251146",
+  "post_date": "2026-06-09",
+  "duration_seconds": 53,
+  "excerpt": "Nothing in your life works without sleep. Yet most of us have stopped expecting to sleep well -",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 145400,
+      "likes": 820,
+      "reposts": 25,
+      "replies": 68,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 145,400 views and 820 likes on the gallery listing, a like rate of 0.56 percent, close to the library median of 0.56 percent. At 53 seconds it compares best with the 60 second structure."
+}

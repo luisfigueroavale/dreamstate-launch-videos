@@ -1,0 +1,33 @@
+{
+  "id": "x-2062178876613079132",
+  "company": "Project Read",
+  "product": "Spelling Mode",
+  "title": "Project Read launches Spelling Mode in its AI tutor",
+  "posted_by": "@ProjectReadAI",
+  "owner": "third-party",
+  "category": "education-events",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ProjectReadAI/status/2062178876613079132",
+  "post_date": "2026-06-03",
+  "duration_seconds": 101,
+  "excerpt": "Two weeks ago we launched Spelling Mode in the Project Read Tutor, and the response from classrooms has",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 469000,
+      "likes": 47,
+      "reposts": 10,
+      "replies": 3,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 469,000 views and 47 likes on the gallery listing, a like rate of 0.01 percent, below the library median of 0.56 percent. At 101 seconds it compares best with the 90 second structure."
+}

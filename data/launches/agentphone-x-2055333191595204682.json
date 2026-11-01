@@ -1,0 +1,33 @@
+{
+  "id": "x-2055333191595204682",
+  "company": "AgentPhone",
+  "product": null,
+  "title": "AgentPhone launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2055333191595204682",
+  "post_date": "2026-05-15",
+  "duration_seconds": 100,
+  "excerpt": "The $2T telecom industry was built for humans. @AgentPhoneHQ is rebuilding it for agents. One API gives every",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 71606,
+      "likes": 354,
+      "reposts": 42,
+      "replies": 66,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 71,606 views and 354 likes on the gallery listing, a like rate of 0.49 percent, close to the library median of 0.56 percent. At 100 seconds it compares best with the 90 second structure."
+}

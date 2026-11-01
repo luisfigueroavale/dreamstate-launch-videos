@@ -1,0 +1,68 @@
+{
+  "id": "x-2069497198879048131",
+  "company": "Aside",
+  "product": null,
+  "title": "Aside launch",
+  "posted_by": "@hyojun_at",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/hyojun_at/status/2069497198879048131",
+  "post_date": "2026-06-23",
+  "duration_seconds": 87.6,
+  "excerpt": "Today, we're launching Aside, the AI browser you’ve waited for. ⋅ Crafted in every detail: vertical tabs and",
+  "hook_family": "comparison",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 53.02
+    },
+    {
+      "start": 53.02,
+      "end": 53.05
+    },
+    {
+      "start": 53.05,
+      "end": 66.57
+    },
+    {
+      "start": 66.57,
+      "end": 71.77
+    },
+    {
+      "start": 71.77,
+      "end": 79.28
+    },
+    {
+      "start": 79.28,
+      "end": 87.57
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 1704954,
+      "likes": 7349,
+      "reposts": 406,
+      "replies": 703,
+      "bookmarks": 7556
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1500000,
+      "likes": 7080,
+      "reposts": 406,
+      "replies": 697,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a comparison line. That label comes from the post text, not from watching the video. Reported 1,704,954 views and 7,349 likes on the post itself, a like rate of 0.43 percent, below the library median of 0.56 percent. At 88 seconds it compares best with the 90 second structure. Scene detection found 6 shots, about 14.6 seconds each, with the first cut at 53.0 seconds."
+}

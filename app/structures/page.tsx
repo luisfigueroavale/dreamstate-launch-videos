@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getLaunches, getStructures, primarySnapshot } from "@/lib/data";
+import { getLaunches, getStructures, primarySnapshot, companyLabel } from "@/lib/data";
 import { fmtCompact, fmtDuration } from "@/lib/format";
 
 export const metadata: Metadata = { title: "Structures" };
@@ -60,8 +60,8 @@ export default function StructuresPage() {
               {inBand.length > 0 && (
                 <div className="mini-list" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(240px, 1fr))", display: "grid" }}>
                   {inBand.slice(0, 6).map(({ l, v }) => (
-                    <Link key={l.id} href={`/v/${l.id}/`}>
-                      <span>{l.company}</span>
+                    <Link key={l.id} href={`/launches/${l.slug}/`}>
+                      <span>{companyLabel(l)}</span>
                       <span>{fmtDuration(l.duration_seconds)} · {fmtCompact(v)}</span>
                     </Link>
                   ))}

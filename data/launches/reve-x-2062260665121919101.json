@@ -1,0 +1,428 @@
+{
+  "id": "x-2062260665121919101",
+  "company": "Reve",
+  "product": null,
+  "title": "Reve launch",
+  "posted_by": "@reve",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/reve/status/2062260665121919101",
+  "post_date": "2026-06-03",
+  "duration_seconds": 54.1,
+  "excerpt": "Today, we’re launching Reve 2.0, the best 4K image model in the world. We invented a new way",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 2.2
+    },
+    {
+      "start": 2.2,
+      "end": 4.84
+    },
+    {
+      "start": 4.84,
+      "end": 5.57
+    },
+    {
+      "start": 5.57,
+      "end": 6.57
+    },
+    {
+      "start": 6.57,
+      "end": 6.74
+    },
+    {
+      "start": 6.74,
+      "end": 6.91
+    },
+    {
+      "start": 6.91,
+      "end": 7.21
+    },
+    {
+      "start": 7.21,
+      "end": 7.34
+    },
+    {
+      "start": 7.34,
+      "end": 7.51
+    },
+    {
+      "start": 7.51,
+      "end": 7.67
+    },
+    {
+      "start": 7.67,
+      "end": 7.84
+    },
+    {
+      "start": 7.84,
+      "end": 8.01
+    },
+    {
+      "start": 8.01,
+      "end": 8.17
+    },
+    {
+      "start": 8.17,
+      "end": 8.58
+    },
+    {
+      "start": 8.58,
+      "end": 9.74
+    },
+    {
+      "start": 9.74,
+      "end": 11.24
+    },
+    {
+      "start": 11.24,
+      "end": 12.08
+    },
+    {
+      "start": 12.08,
+      "end": 12.58
+    },
+    {
+      "start": 12.58,
+      "end": 13.38
+    },
+    {
+      "start": 13.38,
+      "end": 13.51
+    },
+    {
+      "start": 13.51,
+      "end": 13.65
+    },
+    {
+      "start": 13.65,
+      "end": 14.31
+    },
+    {
+      "start": 14.31,
+      "end": 15.12
+    },
+    {
+      "start": 15.12,
+      "end": 18.15
+    },
+    {
+      "start": 18.15,
+      "end": 18.32
+    },
+    {
+      "start": 18.32,
+      "end": 18.49
+    },
+    {
+      "start": 18.49,
+      "end": 19.82
+    },
+    {
+      "start": 19.82,
+      "end": 21.65
+    },
+    {
+      "start": 21.65,
+      "end": 21.82
+    },
+    {
+      "start": 21.82,
+      "end": 22.06
+    },
+    {
+      "start": 22.06,
+      "end": 22.22
+    },
+    {
+      "start": 22.22,
+      "end": 22.39
+    },
+    {
+      "start": 22.39,
+      "end": 22.56
+    },
+    {
+      "start": 22.56,
+      "end": 22.72
+    },
+    {
+      "start": 22.72,
+      "end": 22.96
+    },
+    {
+      "start": 22.96,
+      "end": 23.12
+    },
+    {
+      "start": 23.12,
+      "end": 23.29
+    },
+    {
+      "start": 23.29,
+      "end": 23.46
+    },
+    {
+      "start": 23.46,
+      "end": 23.62
+    },
+    {
+      "start": 23.62,
+      "end": 23.79
+    },
+    {
+      "start": 23.79,
+      "end": 24.12
+    },
+    {
+      "start": 24.12,
+      "end": 24.29
+    },
+    {
+      "start": 24.29,
+      "end": 24.46
+    },
+    {
+      "start": 24.46,
+      "end": 24.62
+    },
+    {
+      "start": 24.62,
+      "end": 24.79
+    },
+    {
+      "start": 24.79,
+      "end": 24.96
+    },
+    {
+      "start": 24.96,
+      "end": 25.13
+    },
+    {
+      "start": 25.13,
+      "end": 25.29
+    },
+    {
+      "start": 25.29,
+      "end": 25.46
+    },
+    {
+      "start": 25.46,
+      "end": 25.79
+    },
+    {
+      "start": 25.79,
+      "end": 25.96
+    },
+    {
+      "start": 25.96,
+      "end": 26.13
+    },
+    {
+      "start": 26.13,
+      "end": 26.29
+    },
+    {
+      "start": 26.29,
+      "end": 26.46
+    },
+    {
+      "start": 26.46,
+      "end": 26.63
+    },
+    {
+      "start": 26.63,
+      "end": 26.79
+    },
+    {
+      "start": 26.79,
+      "end": 26.96
+    },
+    {
+      "start": 26.96,
+      "end": 27.33
+    },
+    {
+      "start": 27.33,
+      "end": 29.0
+    },
+    {
+      "start": 29.0,
+      "end": 30.96
+    },
+    {
+      "start": 30.96,
+      "end": 31.97
+    },
+    {
+      "start": 31.97,
+      "end": 32.3
+    },
+    {
+      "start": 32.3,
+      "end": 32.57
+    },
+    {
+      "start": 32.57,
+      "end": 32.73
+    },
+    {
+      "start": 32.73,
+      "end": 32.9
+    },
+    {
+      "start": 32.9,
+      "end": 33.07
+    },
+    {
+      "start": 33.07,
+      "end": 34.07
+    },
+    {
+      "start": 34.07,
+      "end": 34.57
+    },
+    {
+      "start": 34.57,
+      "end": 34.9
+    },
+    {
+      "start": 34.9,
+      "end": 35.07
+    },
+    {
+      "start": 35.07,
+      "end": 36.7
+    },
+    {
+      "start": 36.7,
+      "end": 37.04
+    },
+    {
+      "start": 37.04,
+      "end": 37.27
+    },
+    {
+      "start": 37.27,
+      "end": 37.44
+    },
+    {
+      "start": 37.44,
+      "end": 37.6
+    },
+    {
+      "start": 37.6,
+      "end": 37.77
+    },
+    {
+      "start": 37.77,
+      "end": 37.94
+    },
+    {
+      "start": 37.94,
+      "end": 38.1
+    },
+    {
+      "start": 38.1,
+      "end": 38.61
+    },
+    {
+      "start": 38.61,
+      "end": 38.77
+    },
+    {
+      "start": 38.77,
+      "end": 38.94
+    },
+    {
+      "start": 38.94,
+      "end": 39.11
+    },
+    {
+      "start": 39.11,
+      "end": 39.61
+    },
+    {
+      "start": 39.61,
+      "end": 39.77
+    },
+    {
+      "start": 39.77,
+      "end": 39.94
+    },
+    {
+      "start": 39.94,
+      "end": 40.11
+    },
+    {
+      "start": 40.11,
+      "end": 40.27
+    },
+    {
+      "start": 40.27,
+      "end": 42.61
+    },
+    {
+      "start": 42.61,
+      "end": 44.11
+    },
+    {
+      "start": 44.11,
+      "end": 46.78
+    },
+    {
+      "start": 46.78,
+      "end": 47.31
+    },
+    {
+      "start": 47.31,
+      "end": 47.68
+    },
+    {
+      "start": 47.68,
+      "end": 48.05
+    },
+    {
+      "start": 48.05,
+      "end": 48.42
+    },
+    {
+      "start": 48.42,
+      "end": 48.82
+    },
+    {
+      "start": 48.82,
+      "end": 54.1
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 11953693,
+      "likes": 5119,
+      "reposts": 471,
+      "replies": 268,
+      "bookmarks": 4579
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 11900000,
+      "likes": 5170,
+      "reposts": 489,
+      "replies": 273,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 11,953,693 views and 5,119 likes on the post itself, a like rate of 0.04 percent, below the library median of 0.56 percent. At 54 seconds it compares best with the 60 second structure. Scene detection found 96 shots, about 0.6 seconds each, with the first cut at 2.2 seconds."
+}

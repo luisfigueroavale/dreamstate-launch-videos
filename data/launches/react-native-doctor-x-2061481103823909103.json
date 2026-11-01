@@ -1,0 +1,33 @@
+{
+  "id": "x-2061481103823909103",
+  "company": "React Native Doctor",
+  "product": null,
+  "title": "React Native Doctor Mobile app debugging",
+  "posted_by": "@aidenybai",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/aidenybai/status/2061481103823909103",
+  "post_date": "2026-06-01",
+  "duration_seconds": 18,
+  "excerpt": "Introducing React Native Doctor Find performance and security bugs in your mobile app Run via CLI and fix",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 154814,
+      "likes": 1804,
+      "reposts": 134,
+      "replies": 85,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 154,814 views and 1,804 likes on the gallery listing, a like rate of 1.17 percent, above the library median of 0.56 percent. At 18 seconds it compares best with the 15 second structure."
+}

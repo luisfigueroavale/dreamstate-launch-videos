@@ -1,0 +1,33 @@
+{
+  "id": "x-1973010711271084499",
+  "company": "EigenCloud",
+  "product": "EigenCompute and EigenAI",
+  "title": "EigenCloud launch (EigenCompute & EigenAI)",
+  "posted_by": "@eigencloud",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/eigencloud/status/1973010711271084499",
+  "post_date": "2025-09-30",
+  "duration_seconds": 74,
+  "excerpt": "AI’s trust problem ends today. We're thrilled to launch two new services, EigenCompute and EigenAI on EigenCloud. A",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1228562,
+      "likes": 1247,
+      "reposts": 242,
+      "replies": 164,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 1,228,562 views and 1,247 likes on the gallery listing, a like rate of 0.10 percent, below the library median of 0.56 percent. At 74 seconds it compares best with the 60 second structure."
+}

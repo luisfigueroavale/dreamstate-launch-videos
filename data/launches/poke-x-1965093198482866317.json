@@ -1,0 +1,152 @@
+{
+  "id": "x-1965093198482866317",
+  "company": "Poke",
+  "product": null,
+  "title": "Poke launch",
+  "posted_by": "@interaction",
+  "owner": "third-party",
+  "category": "other",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/interaction/status/1965093198482866317",
+  "post_date": "2025-09-08",
+  "duration_seconds": 156.5,
+  "excerpt": "Say hi to 👋🏼🌴",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 3.71
+    },
+    {
+      "start": 3.71,
+      "end": 11.68
+    },
+    {
+      "start": 11.68,
+      "end": 14.68
+    },
+    {
+      "start": 14.68,
+      "end": 15.81
+    },
+    {
+      "start": 15.81,
+      "end": 17.64
+    },
+    {
+      "start": 17.64,
+      "end": 19.39
+    },
+    {
+      "start": 19.39,
+      "end": 19.85
+    },
+    {
+      "start": 19.85,
+      "end": 23.27
+    },
+    {
+      "start": 23.27,
+      "end": 25.15
+    },
+    {
+      "start": 25.15,
+      "end": 25.82
+    },
+    {
+      "start": 25.82,
+      "end": 51.26
+    },
+    {
+      "start": 51.26,
+      "end": 53.18
+    },
+    {
+      "start": 53.18,
+      "end": 60.6
+    },
+    {
+      "start": 60.6,
+      "end": 67.82
+    },
+    {
+      "start": 67.82,
+      "end": 73.82
+    },
+    {
+      "start": 73.82,
+      "end": 79.58
+    },
+    {
+      "start": 79.58,
+      "end": 81.37
+    },
+    {
+      "start": 81.37,
+      "end": 83.58
+    },
+    {
+      "start": 83.58,
+      "end": 91.63
+    },
+    {
+      "start": 91.63,
+      "end": 101.06
+    },
+    {
+      "start": 101.06,
+      "end": 102.1
+    },
+    {
+      "start": 102.1,
+      "end": 103.27
+    },
+    {
+      "start": 103.27,
+      "end": 114.07
+    },
+    {
+      "start": 114.07,
+      "end": 117.7
+    },
+    {
+      "start": 117.7,
+      "end": 136.93
+    },
+    {
+      "start": 136.93,
+      "end": 149.32
+    },
+    {
+      "start": 149.32,
+      "end": 156.54
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 3263007,
+      "likes": 3998,
+      "reposts": 207,
+      "replies": 475,
+      "bookmarks": 2137
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 3173468,
+      "likes": 3979,
+      "reposts": 211,
+      "replies": 482,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 3,263,007 views and 3,998 likes on the post itself, a like rate of 0.12 percent, below the library median of 0.56 percent. At 156 seconds it is a keynote length cut, longer than any timed structure here. Scene detection found 27 shots, about 5.8 seconds each, with the first cut at 3.7 seconds."
+}

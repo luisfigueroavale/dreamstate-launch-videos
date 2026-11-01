@@ -1,0 +1,33 @@
+{
+  "id": "x-1983170406560469429",
+  "company": "untitled desktop",
+  "product": null,
+  "title": "untitled desktop launch",
+  "posted_by": "@uuuntitleddd",
+  "owner": "third-party",
+  "category": "productivity",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/uuuntitleddd/status/1983170406560469429",
+  "post_date": "2025-10-28",
+  "duration_seconds": 28,
+  "excerpt": "We’ve built a macOS app for all the power users out there. It launches on Nov 3rd. Pre-order",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 38229,
+      "likes": 501,
+      "reposts": 20,
+      "replies": 15,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 38,229 views and 501 likes on the gallery listing, a like rate of 1.31 percent, above the library median of 0.56 percent. At 28 seconds it compares best with the 30 second structure."
+}

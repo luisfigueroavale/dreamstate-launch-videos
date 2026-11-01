@@ -1,0 +1,132 @@
+{
+  "id": "x-1953439316815786478",
+  "company": "Anything",
+  "product": null,
+  "title": "Anything Mobile & web app agent",
+  "posted_by": "@anything",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/anything/status/1953439316815786478",
+  "post_date": "2025-08-07",
+  "duration_seconds": 17.1,
+  "excerpt": "Introducing Anything. Agent that ships mobile apps & web. Designs that don't look AI made.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 3.34
+    },
+    {
+      "start": 3.34,
+      "end": 3.5
+    },
+    {
+      "start": 3.5,
+      "end": 3.8
+    },
+    {
+      "start": 3.8,
+      "end": 3.92
+    },
+    {
+      "start": 3.92,
+      "end": 4.13
+    },
+    {
+      "start": 4.13,
+      "end": 5.26
+    },
+    {
+      "start": 5.26,
+      "end": 5.34
+    },
+    {
+      "start": 5.34,
+      "end": 5.76
+    },
+    {
+      "start": 5.76,
+      "end": 5.96
+    },
+    {
+      "start": 5.96,
+      "end": 6.13
+    },
+    {
+      "start": 6.13,
+      "end": 6.21
+    },
+    {
+      "start": 6.21,
+      "end": 6.34
+    },
+    {
+      "start": 6.34,
+      "end": 6.51
+    },
+    {
+      "start": 6.51,
+      "end": 6.72
+    },
+    {
+      "start": 6.72,
+      "end": 7.47
+    },
+    {
+      "start": 7.47,
+      "end": 7.63
+    },
+    {
+      "start": 7.63,
+      "end": 7.76
+    },
+    {
+      "start": 7.76,
+      "end": 7.84
+    },
+    {
+      "start": 7.84,
+      "end": 8.34
+    },
+    {
+      "start": 8.34,
+      "end": 10.55
+    },
+    {
+      "start": 10.55,
+      "end": 13.6
+    },
+    {
+      "start": 13.6,
+      "end": 17.11
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 3413049,
+      "likes": 7584,
+      "reposts": 546,
+      "replies": 4686,
+      "bookmarks": 5626
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 3410241,
+      "likes": 7704,
+      "reposts": 562,
+      "replies": 4769,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 3,413,049 views and 7,584 likes on the post itself, a like rate of 0.22 percent, below the library median of 0.56 percent. At 17 seconds it compares best with the 15 second structure. Scene detection found 22 shots, about 0.8 seconds each, with the first cut at 3.3 seconds."
+}

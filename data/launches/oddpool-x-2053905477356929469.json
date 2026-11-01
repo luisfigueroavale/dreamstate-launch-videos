@@ -1,0 +1,33 @@
+{
+  "id": "x-2053905477356929469",
+  "company": "Oddpool",
+  "product": null,
+  "title": "Oddpool launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "fintech",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2053905477356929469",
+  "post_date": "2026-05-11",
+  "duration_seconds": 97,
+  "excerpt": "Oddpool (@oddpool_alerts) is the institutional data layer for prediction markets. It captures every trade and order book update",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 28843,
+      "likes": 208,
+      "reposts": 22,
+      "replies": 50,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 28,843 views and 208 likes on the gallery listing, a like rate of 0.72 percent, above the library median of 0.56 percent. At 97 seconds it compares best with the 90 second structure."
+}

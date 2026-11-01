@@ -14,7 +14,7 @@ export default function NavLinks() {
   return (
     <nav className="nav-links">
       {LINKS.map((l) => {
-        const active = l.href === "/" ? path === "/" || path.startsWith("/v/") : path.startsWith(l.href.replace(/\/$/, ""));
+        const active = l.href === "/" ? path === "/" || path.startsWith("/launches/") : path.startsWith(l.href.replace(/\/$/, ""));
         return (
           <Link key={l.href} href={l.href} aria-current={active ? "page" : undefined}>
             {l.label}

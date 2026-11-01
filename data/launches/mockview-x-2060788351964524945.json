@@ -1,0 +1,33 @@
+{
+  "id": "x-2060788351964524945",
+  "company": "Mockview",
+  "product": "Mockview 5.0",
+  "title": "Mockview 5.0 feature launch",
+  "posted_by": "@_Kavsoft",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/_Kavsoft/status/2060788351964524945",
+  "post_date": "2026-05-30",
+  "duration_seconds": 60,
+  "excerpt": "Introducing Mockview 5.0 (macOS) This update packs many new updates such as: 1. Animated video mockups (keyframes) 2.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 17786,
+      "likes": 299,
+      "reposts": 14,
+      "replies": 2,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 17,786 views and 299 likes on the gallery listing, a like rate of 1.68 percent, above the library median of 0.56 percent. At 60 seconds it compares best with the 60 second structure."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x-2053934029175660642",
+  "company": "Framewise Health",
+  "product": null,
+  "title": "Framewise Health launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2053934029175660642",
+  "post_date": "2026-05-11",
+  "duration_seconds": 87,
+  "excerpt": "Framewise Health (@FramewiseHealth) turns medical records, institutional protocols, and drug data into personalized videos that walk patients through",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 17383,
+      "likes": 102,
+      "reposts": 5,
+      "replies": 6,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 17,383 views and 102 likes on the gallery listing, a like rate of 0.59 percent, close to the library median of 0.56 percent. At 87 seconds it compares best with the 90 second structure."
+}

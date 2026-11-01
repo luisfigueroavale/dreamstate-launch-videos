@@ -1,0 +1,146 @@
+{
+  "id": "x-2056810614505259226",
+  "company": "Tempo",
+  "product": null,
+  "title": "Tempo launch",
+  "posted_by": "@JosephDevoy",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/JosephDevoy/status/2056810614505259226",
+  "post_date": "2026-05-19",
+  "duration_seconds": 133.3,
+  "excerpt": "Introducing Tempo: The world’s first AI Head of Growth. AI can now scale a brand faster than any",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "start": 0.1,
+      "end": 2.27
+    },
+    {
+      "start": 2.27,
+      "end": 3.3
+    },
+    {
+      "start": 3.3,
+      "end": 9.1
+    },
+    {
+      "start": 9.1,
+      "end": 10.17
+    },
+    {
+      "start": 10.17,
+      "end": 11.83
+    },
+    {
+      "start": 11.83,
+      "end": 12.93
+    },
+    {
+      "start": 12.93,
+      "end": 12.97
+    },
+    {
+      "start": 12.97,
+      "end": 16.83
+    },
+    {
+      "start": 16.83,
+      "end": 17.97
+    },
+    {
+      "start": 17.97,
+      "end": 22.63
+    },
+    {
+      "start": 22.63,
+      "end": 24.7
+    },
+    {
+      "start": 24.7,
+      "end": 27.97
+    },
+    {
+      "start": 27.97,
+      "end": 37.5
+    },
+    {
+      "start": 37.5,
+      "end": 41.03
+    },
+    {
+      "start": 41.03,
+      "end": 41.07
+    },
+    {
+      "start": 41.07,
+      "end": 62.7
+    },
+    {
+      "start": 62.7,
+      "end": 68.77
+    },
+    {
+      "start": 68.77,
+      "end": 72.37
+    },
+    {
+      "start": 72.37,
+      "end": 77.47
+    },
+    {
+      "start": 77.47,
+      "end": 95.07
+    },
+    {
+      "start": 95.07,
+      "end": 95.1
+    },
+    {
+      "start": 95.1,
+      "end": 101.23
+    },
+    {
+      "start": 101.23,
+      "end": 104.37
+    },
+    {
+      "start": 104.37,
+      "end": 105.83
+    },
+    {
+      "start": 105.83,
+      "end": 107.7
+    },
+    {
+      "start": 107.7,
+      "end": 129.1
+    },
+    {
+      "start": 129.1,
+      "end": 133.29
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2016266,
+      "likes": 3837,
+      "reposts": 271,
+      "replies": 435,
+      "bookmarks": 6697
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 2,016,266 views and 3,837 likes on the post itself, a like rate of 0.19 percent, below the library median of 0.56 percent. At 133 seconds it compares best with the 120 second structure. Scene detection found 28 shots, about 4.8 seconds each, with the first cut at 0.1 seconds."
+}

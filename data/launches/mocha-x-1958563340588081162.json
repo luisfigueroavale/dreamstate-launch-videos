@@ -1,0 +1,33 @@
+{
+  "id": "x-1958563340588081162",
+  "company": "Mocha",
+  "product": null,
+  "title": "Mocha App builder",
+  "posted_by": "@nichochar",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/nichochar/status/1958563340588081162",
+  "post_date": "2025-08-21",
+  "duration_seconds": 109,
+  "excerpt": "Introducing Mocha - the app builder for the 99%.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 526472,
+      "likes": 1057,
+      "reposts": 137,
+      "replies": 129,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 526,472 views and 1,057 likes on the gallery listing, a like rate of 0.20 percent, below the library median of 0.56 percent. At 109 seconds it compares best with the 120 second structure."
+}

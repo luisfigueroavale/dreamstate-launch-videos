@@ -1,0 +1,33 @@
+{
+  "id": "x-2057886059426656513",
+  "company": "Synphony",
+  "product": null,
+  "title": "Synphony launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "robotics",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2057886059426656513",
+  "post_date": "2026-05-22",
+  "duration_seconds": 54,
+  "excerpt": "Synphony deploys robots to pick strawberries. It's a $3B market in California alone, where labor is 60% of",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 52356,
+      "likes": 302,
+      "reposts": 41,
+      "replies": 31,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 52,356 views and 302 likes on the gallery listing, a like rate of 0.58 percent, close to the library median of 0.56 percent. At 54 seconds it compares best with the 60 second structure. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x-2003404053448130908",
+  "company": "YourPrediction",
+  "product": null,
+  "title": "YourPrediction launches its prediction app on Product Hunt",
+  "posted_by": "@danilofiumi",
+  "owner": "third-party",
+  "category": "consumer",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/danilofiumi/status/2003404053448130908",
+  "post_date": "2025-12-23",
+  "duration_seconds": 86,
+  "excerpt": "Can you really inspire the Simulation Owner? YourPrediction is now Live on Product Hunt 🚀 Drop your bold",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 187,
+      "likes": 3,
+      "reposts": 0,
+      "replies": 4,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 187 views and 3 likes on the gallery listing, a like rate of 1.60 percent, above the library median of 0.56 percent. At 86 seconds it compares best with the 90 second structure."
+}

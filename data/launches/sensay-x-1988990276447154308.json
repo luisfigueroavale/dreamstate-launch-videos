@@ -1,0 +1,33 @@
+{
+  "id": "x-1988990276447154308",
+  "company": "Sensay",
+  "product": null,
+  "title": "Sensay launch",
+  "posted_by": "@asksensay",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/asksensay/status/1988990276447154308",
+  "post_date": "2025-11-13",
+  "duration_seconds": 46,
+  "excerpt": "Imagine joining a new job and every answer you need is already waiting for you. Our new product",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 21642,
+      "likes": 79,
+      "reposts": 18,
+      "replies": 76,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 21,642 views and 79 likes on the gallery listing, a like rate of 0.37 percent, below the library median of 0.56 percent. At 46 seconds it compares best with the 60 second structure."
+}

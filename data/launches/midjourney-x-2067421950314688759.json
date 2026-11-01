@@ -1,0 +1,128 @@
+{
+  "id": "x-2067421950314688759",
+  "company": "Midjourney",
+  "product": null,
+  "title": "Midjourney launch",
+  "posted_by": "@midjourney",
+  "owner": "third-party",
+  "category": "media-creative",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/midjourney/status/2067421950314688759",
+  "post_date": "2026-06-18",
+  "duration_seconds": 142.7,
+  "excerpt": "Announcing a new division of Midjourney called \"Midjourney Medical\"",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 9.04
+    },
+    {
+      "start": 9.04,
+      "end": 10.74
+    },
+    {
+      "start": 10.74,
+      "end": 12.68
+    },
+    {
+      "start": 12.68,
+      "end": 14.55
+    },
+    {
+      "start": 14.55,
+      "end": 26.03
+    },
+    {
+      "start": 26.03,
+      "end": 31.66
+    },
+    {
+      "start": 31.66,
+      "end": 39.17
+    },
+    {
+      "start": 39.17,
+      "end": 48.68
+    },
+    {
+      "start": 48.68,
+      "end": 53.15
+    },
+    {
+      "start": 53.15,
+      "end": 57.06
+    },
+    {
+      "start": 57.06,
+      "end": 59.36
+    },
+    {
+      "start": 59.36,
+      "end": 61.36
+    },
+    {
+      "start": 61.36,
+      "end": 70.27
+    },
+    {
+      "start": 70.27,
+      "end": 87.55
+    },
+    {
+      "start": 87.55,
+      "end": 90.49
+    },
+    {
+      "start": 90.49,
+      "end": 96.9
+    },
+    {
+      "start": 96.9,
+      "end": 102.07
+    },
+    {
+      "start": 102.07,
+      "end": 107.74
+    },
+    {
+      "start": 107.74,
+      "end": 116.88
+    },
+    {
+      "start": 116.88,
+      "end": 129.43
+    },
+    {
+      "start": 129.43,
+      "end": 142.72
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 18922815,
+      "likes": 39436,
+      "reposts": 5015,
+      "replies": 2474,
+      "bookmarks": 11146
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 18200000,
+      "likes": 39896,
+      "reposts": 5713,
+      "replies": 2528,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 18,922,815 views and 39,436 likes on the post itself, a like rate of 0.21 percent, below the library median of 0.56 percent. At 143 seconds it compares best with the 120 second structure. Scene detection found 21 shots, about 6.8 seconds each, with the first cut at 9.0 seconds."
+}

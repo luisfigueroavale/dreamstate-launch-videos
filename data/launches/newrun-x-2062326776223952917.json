@@ -1,0 +1,33 @@
+{
+  "id": "x-2062326776223952917",
+  "company": "Newrun",
+  "product": "PAI 1.0",
+  "title": "Newrun PAI 1.0: personal super intelligence",
+  "posted_by": "@EonYulheon",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/EonYulheon/status/2062326776223952917",
+  "post_date": "2026-06-04",
+  "duration_seconds": 505,
+  "excerpt": "Introducing PAI 1.0: The First Version of Personal Super Intelligence PAI is the world's first context-aware, widget based",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 130800,
+      "likes": 31,
+      "reposts": 9,
+      "replies": 5,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 130,800 views and 31 likes on the gallery listing, a like rate of 0.02 percent, below the library median of 0.56 percent. At 505 seconds it is a keynote length cut, longer than any timed structure here."
+}

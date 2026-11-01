@@ -1,0 +1,33 @@
+{
+  "id": "x-2060058526043763044",
+  "company": "Cignara",
+  "product": null,
+  "title": "Cignara launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2060058526043763044",
+  "post_date": "2026-05-28",
+  "duration_seconds": 176,
+  "excerpt": "Cignara (@cignara_ai) automates sales and customer support for large B2C enterprises across voice + chat. Its AI agents",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 14770,
+      "likes": 91,
+      "reposts": 8,
+      "replies": 13,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 14,770 views and 91 likes on the gallery listing, a like rate of 0.62 percent, close to the library median of 0.56 percent. At 176 seconds it is a keynote length cut, longer than any timed structure here."
+}
