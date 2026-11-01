@@ -1,0 +1,158 @@
+{
+  "id": "x-2036474296353411290",
+  "company": "Moda",
+  "title": "Moda $7.5M raise",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/anvisha/status/2036474296353411290",
+  "post_date": "2026-03-24",
+  "duration_seconds": 104.0,
+  "excerpt": "We raised $7.5M to kill AI slop. Introducing Moda: the world's first design agent with taste.",
+  "hook_family": "objection-ownership",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.13
+    },
+    {
+      "start": 0.13,
+      "end": 3.13
+    },
+    {
+      "start": 3.13,
+      "end": 6.47
+    },
+    {
+      "start": 6.47,
+      "end": 7.93
+    },
+    {
+      "start": 7.93,
+      "end": 15.17
+    },
+    {
+      "start": 15.17,
+      "end": 15.47
+    },
+    {
+      "start": 15.47,
+      "end": 16.3
+    },
+    {
+      "start": 16.3,
+      "end": 16.57
+    },
+    {
+      "start": 16.57,
+      "end": 19.47
+    },
+    {
+      "start": 19.47,
+      "end": 28.9
+    },
+    {
+      "start": 28.9,
+      "end": 31.43
+    },
+    {
+      "start": 31.43,
+      "end": 34.77
+    },
+    {
+      "start": 34.77,
+      "end": 37.97
+    },
+    {
+      "start": 37.97,
+      "end": 41.23
+    },
+    {
+      "start": 41.23,
+      "end": 47.13
+    },
+    {
+      "start": 47.13,
+      "end": 48.8
+    },
+    {
+      "start": 48.8,
+      "end": 49.2
+    },
+    {
+      "start": 49.2,
+      "end": 76.5
+    },
+    {
+      "start": 76.5,
+      "end": 76.53
+    },
+    {
+      "start": 76.53,
+      "end": 80.9
+    },
+    {
+      "start": 80.9,
+      "end": 90.23
+    },
+    {
+      "start": 90.23,
+      "end": 90.27
+    },
+    {
+      "start": 90.27,
+      "end": 90.3
+    },
+    {
+      "start": 90.3,
+      "end": 90.4
+    },
+    {
+      "start": 90.4,
+      "end": 90.97
+    },
+    {
+      "start": 90.97,
+      "end": 92.9
+    },
+    {
+      "start": 92.9,
+      "end": 97.57
+    },
+    {
+      "start": 97.57,
+      "end": 103.93
+    },
+    {
+      "start": 103.93,
+      "end": 104.02
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 4551816,
+      "likes": 8038,
+      "reposts": 1698,
+      "replies": 2511,
+      "bookmarks": 9186
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 4499773,
+      "likes": 8091,
+      "reposts": 1754,
+      "replies": 2551,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an objection ownership line. That label comes from the post text, not from watching the video. Reported 4,551,816 views and 8,038 likes on the post itself, a like rate of 0.18 percent, below the library median of 0.56 percent. At 104 seconds it compares best with the 90 second structure. Scene detection found 29 shots, about 3.6 seconds each, with the first cut at 0.1 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

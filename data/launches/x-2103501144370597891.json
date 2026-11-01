@@ -1,0 +1,152 @@
+{
+  "id": "x-2103501144370597891",
+  "company": "Warp",
+  "title": "Warp raise",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ayushswrites/status/2103501144370597891",
+  "post_date": "2026-09-25",
+  "duration_seconds": 146.6,
+  "excerpt": "We’ve raised $85M for this moment. Introducing Warp 2.0: The first AI Head of HR. Every company is",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.25
+    },
+    {
+      "start": 0.25,
+      "end": 0.83
+    },
+    {
+      "start": 0.83,
+      "end": 2.13
+    },
+    {
+      "start": 2.13,
+      "end": 3.59
+    },
+    {
+      "start": 3.59,
+      "end": 4.42
+    },
+    {
+      "start": 4.42,
+      "end": 7.01
+    },
+    {
+      "start": 7.01,
+      "end": 10.76
+    },
+    {
+      "start": 10.76,
+      "end": 12.85
+    },
+    {
+      "start": 12.85,
+      "end": 18.35
+    },
+    {
+      "start": 18.35,
+      "end": 22.9
+    },
+    {
+      "start": 22.9,
+      "end": 24.61
+    },
+    {
+      "start": 24.61,
+      "end": 27.9
+    },
+    {
+      "start": 27.9,
+      "end": 27.94
+    },
+    {
+      "start": 27.94,
+      "end": 32.87
+    },
+    {
+      "start": 32.87,
+      "end": 44.71
+    },
+    {
+      "start": 44.71,
+      "end": 48.34
+    },
+    {
+      "start": 48.34,
+      "end": 50.13
+    },
+    {
+      "start": 50.13,
+      "end": 64.31
+    },
+    {
+      "start": 64.31,
+      "end": 68.94
+    },
+    {
+      "start": 68.94,
+      "end": 76.03
+    },
+    {
+      "start": 76.03,
+      "end": 76.49
+    },
+    {
+      "start": 76.49,
+      "end": 81.46
+    },
+    {
+      "start": 81.46,
+      "end": 82.58
+    },
+    {
+      "start": 82.58,
+      "end": 103.27
+    },
+    {
+      "start": 103.27,
+      "end": 105.9
+    },
+    {
+      "start": 105.9,
+      "end": 107.65
+    },
+    {
+      "start": 107.65,
+      "end": 115.53
+    },
+    {
+      "start": 115.53,
+      "end": 118.41
+    },
+    {
+      "start": 118.41,
+      "end": 130.13
+    },
+    {
+      "start": 130.13,
+      "end": 146.62
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 1280015,
+      "likes": 1981,
+      "reposts": 184,
+      "replies": 308,
+      "bookmarks": 1268
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 1,280,015 views and 1,981 likes on the post itself, a like rate of 0.15 percent, below the library median of 0.56 percent. At 147 seconds it compares best with the 120 second structure. Scene detection found 30 shots, about 4.9 seconds each, with the first cut at 0.2 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

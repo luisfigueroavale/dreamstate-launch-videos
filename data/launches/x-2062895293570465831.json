@@ -1,0 +1,31 @@
+{
+  "id": "x-2062895293570465831",
+  "company": "tinycrm",
+  "title": "tinycrm launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/dmytrovirych/status/2062895293570465831",
+  "post_date": "2026-06-05",
+  "duration_seconds": 32,
+  "excerpt": "you're an indie hacker with 4 products. your customers live in 4 dashboards. nobody knows who anybody is.",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1400,
+      "likes": 3,
+      "reposts": 1,
+      "replies": 4,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 1,400 views and 3 likes on the gallery listing, a like rate of 0.21 percent, below the library median of 0.56 percent. At 32 seconds it compares best with the 30 second structure."
+}

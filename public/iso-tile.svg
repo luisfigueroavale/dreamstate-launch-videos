@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none" stroke="#ffffff" stroke-width="1.2">
+  <path d="M100 10 L170 50 L100 90 L30 50 Z"/>
+  <path d="M30 50 L30 110 L100 150 L100 90"/>
+  <path d="M170 50 L170 110 L100 150"/>
+  <path d="M100 30 L135 50 L100 70 L65 50 Z"/>
+  <rect x="84" y="102" width="32" height="20" rx="4" transform="skewY(-30) translate(0 58)"/>
+</svg>

@@ -1,0 +1,31 @@
+{
+  "id": "x-2030103708080689452",
+  "company": "RecapIt AI",
+  "title": "RecapIt AI launch",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/im_anng/status/2030103708080689452",
+  "post_date": "2026-03-07",
+  "duration_seconds": 69,
+  "excerpt": "I just launched RecapIt AI. The intelligent way to capture, analyze, and organize insights from short-form video content.",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 351,
+      "likes": 8,
+      "reposts": 0,
+      "replies": 7,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 351 views and 8 likes on the gallery listing, a like rate of 2.28 percent, above the library median of 0.56 percent. At 69 seconds it compares best with the 60 second structure."
+}

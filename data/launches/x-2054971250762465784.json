@@ -1,0 +1,31 @@
+{
+  "id": "x-2054971250762465784",
+  "company": "Auxos",
+  "title": "Auxos launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2054971250762465784",
+  "post_date": "2026-05-14",
+  "duration_seconds": 79,
+  "excerpt": "Auxos (@UseAuxos) lets marketing, product, and research teams simulate every decision at scale before it reaches a real",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 15448,
+      "likes": 157,
+      "reposts": 24,
+      "replies": 34,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 15,448 views and 157 likes on the gallery listing, a like rate of 1.02 percent, above the library median of 0.56 percent. At 79 seconds it compares best with the 90 second structure."
+}

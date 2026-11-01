@@ -1,0 +1,31 @@
+{
+  "id": "x-2060013226113536349",
+  "company": "KimptonAI",
+  "title": "KimptonAI launch",
+  "owner": "third-party",
+  "category": "fintech",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2060013226113536349",
+  "post_date": "2026-05-28",
+  "duration_seconds": 71,
+  "excerpt": ".@KimptonAI is Cursor for portfolio managers - the AI-native terminal where agents do the research and propose the",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 19427,
+      "likes": 123,
+      "reposts": 17,
+      "replies": 18,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 19,427 views and 123 likes on the gallery listing, a like rate of 0.63 percent, close to the library median of 0.56 percent. At 71 seconds it compares best with the 60 second structure."
+}

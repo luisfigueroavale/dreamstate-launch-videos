@@ -1,0 +1,31 @@
+{
+  "id": "x-1972615398915740021",
+  "company": "NionyxBio",
+  "title": "NionyxBio launches with $4M seed",
+  "owner": "third-party",
+  "category": "healthcare-biotech",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/Mtyrpien/status/1972615398915740021",
+  "post_date": "2025-09-29",
+  "duration_seconds": 60,
+  "excerpt": "I’m proud to announce the launch of @NionyxBio with our $4M seed financing, led by @2048vc with participation",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 188,
+      "likes": 1,
+      "reposts": 1,
+      "replies": 0,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 188 views and 1 likes on the gallery listing, a like rate of 0.53 percent, close to the library median of 0.56 percent. At 60 seconds it compares best with the 60 second structure. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

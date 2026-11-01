@@ -1,0 +1,31 @@
+{
+  "id": "x-2062957629098336626",
+  "company": "9Mothers / EDDA",
+  "title": "9Mothers / EDDA Counter-drone defense",
+  "owner": "third-party",
+  "category": "defense",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062957629098336626",
+  "post_date": "2026-06-05",
+  "duration_seconds": 69,
+  "excerpt": ".@9Mothers is making AI mission systems for the DoW. Their first product - EDDA - is a tiny",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 31621,
+      "likes": 113,
+      "reposts": 11,
+      "replies": 10,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 31,621 views and 113 likes on the gallery listing, a like rate of 0.36 percent, below the library median of 0.56 percent. At 69 seconds it compares best with the 60 second structure."
+}

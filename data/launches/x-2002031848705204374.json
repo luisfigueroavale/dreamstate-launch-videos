@@ -1,0 +1,31 @@
+{
+  "id": "x-2002031848705204374",
+  "company": "Manus Academy",
+  "title": "Manus launches Manus Academy learning platform",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ManusAI/status/2002031848705204374",
+  "post_date": "2025-12-19",
+  "duration_seconds": 57,
+  "excerpt": "🚀 Today we’re launching Manus Academy (Early Bird)",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 58064,
+      "likes": 475,
+      "reposts": 60,
+      "replies": 28,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 58,064 views and 475 likes on the gallery listing, a like rate of 0.82 percent, above the library median of 0.56 percent. At 57 seconds it compares best with the 60 second structure."
+}

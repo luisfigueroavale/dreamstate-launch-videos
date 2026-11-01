@@ -1,0 +1,31 @@
+{
+  "id": "x-2062177232609497302",
+  "company": "Dwight",
+  "title": "Dwight launches AI assistant for workplace questions",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/jakebarlo/status/2062177232609497302",
+  "post_date": "2026-06-03",
+  "duration_seconds": 177,
+  "excerpt": "Hey, I just launched Dwight. I kept seeing the same thing at small and big companies. Teams train",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 4600,
+      "likes": 23,
+      "reposts": 0,
+      "replies": 3,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 4,600 views and 23 likes on the gallery listing, a like rate of 0.50 percent, close to the library median of 0.56 percent. At 177 seconds it is a keynote length cut, longer than any timed structure here."
+}

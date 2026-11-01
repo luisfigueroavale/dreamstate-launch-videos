@@ -1,0 +1,31 @@
+{
+  "id": "x-2062584627928388094",
+  "company": "Cursor Profiles",
+  "title": "Cursor Profiles AI coding / User profiles",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ericzakariasson/status/2062584627928388094",
+  "post_date": "2026-06-04",
+  "duration_seconds": 10,
+  "excerpt": "introducing cursor profiles! go claim your handle at",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 682555,
+      "likes": 1812,
+      "reposts": 92,
+      "replies": 353,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 682,555 views and 1,812 likes on the gallery listing, a like rate of 0.27 percent, below the library median of 0.56 percent. At 10 seconds it compares best with the 15 second structure."
+}

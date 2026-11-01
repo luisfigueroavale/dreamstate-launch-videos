@@ -1,0 +1,31 @@
+{
+  "id": "x-2062232855879754137",
+  "company": "Wato",
+  "title": "Wato AI agent collaboration",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062232855879754137",
+  "post_date": "2026-06-03",
+  "duration_seconds": 127,
+  "excerpt": "Wato (@watolabs) is building the collaboration layer for teams working with AI agents: shared knowledge, cloud agents, automations,",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 16281,
+      "likes": 135,
+      "reposts": 17,
+      "replies": 17,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 16,281 views and 135 likes on the gallery listing, a like rate of 0.83 percent, above the library median of 0.56 percent. At 127 seconds it compares best with the 120 second structure."
+}

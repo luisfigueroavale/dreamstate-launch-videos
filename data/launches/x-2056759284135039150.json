@@ -1,0 +1,31 @@
+{
+  "id": "x-2056759284135039150",
+  "company": "Radar",
+  "title": "Radar $170M Series B",
+  "owner": "third-party",
+  "category": "ecommerce-retail",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2056759284135039150",
+  "post_date": "2026-05-19",
+  "duration_seconds": 92,
+  "excerpt": "Congrats to @SpencerHewett and Radar on their $170M Series B at a $1B valuation! Retailers lose an estimated",
+  "hook_family": "authority-mission",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 21090,
+      "likes": 135,
+      "reposts": 11,
+      "replies": 8,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an authority and mission line. That label comes from the post text, not from watching the video. Reported 21,090 views and 135 likes on the gallery listing, a like rate of 0.64 percent, close to the library median of 0.56 percent. At 92 seconds it compares best with the 90 second structure. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

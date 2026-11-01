@@ -1,0 +1,31 @@
+{
+  "id": "x-2003133813787168908",
+  "company": "PetVivo AI",
+  "title": "PetVivo launches an AI client acquisition platform for vets",
+  "owner": "third-party",
+  "category": "healthcare-biotech",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/PetVivo/status/2003133813787168908",
+  "post_date": "2025-12-22",
+  "duration_seconds": 39,
+  "excerpt": "Day 4: the first veterinary practices to adopt AI will dominate their markets we're launching the first HIPAA-compliant",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 478,
+      "likes": 23,
+      "reposts": 8,
+      "replies": 22,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 478 views and 23 likes on the gallery listing, a like rate of 4.81 percent, above the library median of 0.56 percent. At 39 seconds it compares best with the 30 second structure."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "x-2053943227569303885",
+  "company": "CharacterQuilt",
+  "title": "CharacterQuilt launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2053943227569303885",
+  "post_date": "2026-05-11",
+  "duration_seconds": 75,
+  "excerpt": ".@CharacterQuilt is AI infrastructure for marketing: a brain that learns your brand, and agents that operate your existing",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 19313,
+      "likes": 133,
+      "reposts": 7,
+      "replies": 4,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 19,313 views and 133 likes on the gallery listing, a like rate of 0.69 percent, above the library median of 0.56 percent. At 75 seconds it compares best with the 60 second structure."
+}

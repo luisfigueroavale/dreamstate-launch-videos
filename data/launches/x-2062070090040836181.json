@@ -1,0 +1,31 @@
+{
+  "id": "x-2062070090040836181",
+  "company": "SportNotch",
+  "title": "SportNotch launches on Product Hunt with live scores in the Mac notch",
+  "owner": "third-party",
+  "category": "consumer",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/akaasten/status/2062070090040836181",
+  "post_date": "2026-06-03",
+  "duration_seconds": 6,
+  "excerpt": "SportNotch is live on Product Hunt today! 🎾 I’d love your support to help me reach the top",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1700,
+      "likes": 17,
+      "reposts": 1,
+      "replies": 9,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 1,700 views and 17 likes on the gallery listing, a like rate of 1.00 percent, above the library median of 0.56 percent. At 6 seconds it compares best with the 15 second structure."
+}

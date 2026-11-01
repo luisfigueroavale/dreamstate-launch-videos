@@ -1,0 +1,31 @@
+{
+  "id": "x-1981643381152301471",
+  "company": "Snezzi",
+  "title": "Snezzi launch",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/nikunjness/status/1981643381152301471",
+  "post_date": "2025-10-24",
+  "duration_seconds": 61,
+  "excerpt": "After months of building, testing, and learning, we’re finally live. Today, we’re launching @snezzihq, an AI Visibility Platform",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1256,
+      "likes": 18,
+      "reposts": 10,
+      "replies": 6,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 1,256 views and 18 likes on the gallery listing, a like rate of 1.43 percent, above the library median of 0.56 percent. At 61 seconds it compares best with the 60 second structure."
+}

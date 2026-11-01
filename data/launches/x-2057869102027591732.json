@@ -1,0 +1,31 @@
+{
+  "id": "x-2057869102027591732",
+  "company": "Amboras",
+  "title": "Amboras launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2057869102027591732",
+  "post_date": "2026-05-22",
+  "duration_seconds": 71,
+  "excerpt": "Amboras (@amboras_inc) puts your entire ecommerce stack on autopilot. AI runs, optimizes, and A/B tests your store end",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 40575,
+      "likes": 181,
+      "reposts": 16,
+      "replies": 23,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 40,575 views and 181 likes on the gallery listing, a like rate of 0.45 percent, below the library median of 0.56 percent. At 71 seconds it compares best with the 60 second structure."
+}

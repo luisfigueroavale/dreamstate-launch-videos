@@ -1,0 +1,31 @@
+{
+  "id": "x-2004176145802232091",
+  "company": "Website Builder 2.0",
+  "title": "Skywork launches Websites 2.0 AI site builder",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/Skywork_ai/status/2004176145802232091",
+  "post_date": "2025-12-25",
+  "duration_seconds": 88,
+  "excerpt": "Meet Skywork Websites 2.0 We’ve just launched a major upgrade to our websites agent! Explore our new templates",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 125095,
+      "likes": 13,
+      "reposts": 1,
+      "replies": 3,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 125,095 views and 13 likes on the gallery listing, a like rate of 0.01 percent, below the library median of 0.56 percent. At 88 seconds it compares best with the 90 second structure."
+}

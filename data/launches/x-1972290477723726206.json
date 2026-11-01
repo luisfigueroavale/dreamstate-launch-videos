@@ -1,0 +1,31 @@
+{
+  "id": "x-1972290477723726206",
+  "company": "Kilo Code",
+  "title": "Kilo Code for JetBrains",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/kilocode/status/1972290477723726206",
+  "post_date": "2025-09-28",
+  "duration_seconds": 19,
+  "excerpt": "Kilo Code for JetBrains isn't just a single agent. It's a TEAM of agents that work together to",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1575,
+      "likes": 10,
+      "reposts": 1,
+      "replies": 4,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 1,575 views and 10 likes on the gallery listing, a like rate of 0.63 percent, close to the library median of 0.56 percent. At 19 seconds it compares best with the 15 second structure."
+}

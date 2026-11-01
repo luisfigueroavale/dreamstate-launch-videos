@@ -1,0 +1,31 @@
+{
+  "id": "x-2038042667540533469",
+  "company": "Candle",
+  "title": "Candle launches Love Letters word game",
+  "owner": "third-party",
+  "category": "gaming",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/alex_ruber/status/2038042667540533469",
+  "post_date": "2026-03-28",
+  "duration_seconds": 13,
+  "excerpt": "day 374 of building @trycandleapp, a game to help friends and couples connect more :) we’re super excited",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1735,
+      "likes": 21,
+      "reposts": 1,
+      "replies": 8,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 1,735 views and 21 likes on the gallery listing, a like rate of 1.21 percent, above the library median of 0.56 percent. At 13 seconds it compares best with the 15 second structure."
+}

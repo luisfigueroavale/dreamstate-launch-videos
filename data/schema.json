@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/luisfigueroavale/dreamstate-launch-videos/data/schema.json",
+  "title": "Launch record",
+  "description": "One launch video. Links, a short excerpt, our own analysis, and dated metric snapshots. A missing number is null, never 0.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "company", "title", "owner", "category", "kind", "kind_basis", "post_url", "post_date", "duration_seconds", "excerpt", "hook_family", "hook_basis", "scene_cuts", "snapshots", "transcript_status", "rights", "analysis"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^(x|ds)-[a-z0-9-]+$" },
+    "company": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "title": { "type": "string", "minLength": 1, "maxLength": 140 },
+    "owner": { "enum": ["third-party", "dreamstate"] },
+    "category": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "kind": { "enum": ["launch", "raise", "feature", "demo"] },
+    "kind_basis": { "enum": ["inferred-from-post", "observed-in-video", "owner-supplied"] },
+    "post_url": { "type": "string", "pattern": "^https://(x|twitter)\\.com/[A-Za-z0-9_]+/status/[0-9]+$" },
+    "post_date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "duration_seconds": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "excerpt": {
+      "type": ["string", "null"],
+      "maxLength": 200,
+      "description": "Up to 18 words quoted from the public post. Never the full post or a transcript."
+    },
+    "hook_family": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "hook_basis": { "enum": ["inferred-from-post", "observed-in-video", "not-labeled"] },
+    "scene_cuts": {
+      "type": "array",
+      "description": "Shot boundaries from automated scene detection, in seconds.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["start", "end"],
+        "properties": { "start": { "type": "number", "minimum": 0 }, "end": { "type": "number", "minimum": 0 } }
+      }
+    },
+    "structure": {
+      "type": "array",
+      "description": "Optional beat map written in our own words after watching the video.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["start", "end", "beat"],
+        "properties": {
+          "start": { "type": "number", "minimum": 0 },
+          "end": { "type": "number", "minimum": 0 },
+          "beat": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "snapshots": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["retrieved_on", "scope", "source", "views", "likes", "reposts", "replies", "bookmarks"],
+        "properties": {
+          "retrieved_on": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+          "scope": { "enum": ["individual-post", "listing-snapshot", "owner-analytics"] },
+          "source": { "enum": ["x-public-counts", "public-gallery-listing", "x-read-tool", "dreamstate-analytics"] },
+          "views": { "type": ["integer", "null"], "minimum": 0 },
+          "likes": { "type": ["integer", "null"], "minimum": 0 },
+          "reposts": { "type": ["integer", "null"], "minimum": 0 },
+          "replies": { "type": ["integer", "null"], "minimum": 0 },
+          "bookmarks": { "type": ["integer", "null"], "minimum": 0 }
+        }
+      }
+    },
+    "transcript_status": { "enum": ["none", "machine-unreviewed", "verified"] },
+    "rights": { "enum": ["link-and-excerpt-only", "owned"] },
+    "analysis": { "type": "string", "minLength": 1, "maxLength": 1200 }
+  }
+}

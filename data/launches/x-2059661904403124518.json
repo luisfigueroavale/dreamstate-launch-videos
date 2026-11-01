@@ -1,0 +1,31 @@
+{
+  "id": "x-2059661904403124518",
+  "company": "LightconePod (YC AI Stack)",
+  "title": "LightconePod AI agent infrastructure",
+  "owner": "third-party",
+  "category": "founder-stories",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2059661904403124518",
+  "post_date": "2026-05-27",
+  "duration_seconds": 2790,
+  "excerpt": "$15",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 748480,
+      "likes": 807,
+      "reposts": 119,
+      "replies": 83,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 748,480 views and 807 likes on the gallery listing, a like rate of 0.11 percent, below the library median of 0.56 percent. At 2790 seconds it is a keynote length cut, longer than any timed structure here."
+}

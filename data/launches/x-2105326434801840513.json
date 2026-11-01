@@ -1,0 +1,68 @@
+{
+  "id": "x-2105326434801840513",
+  "company": "SideShift",
+  "title": "SideShift launch",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/nicholasnlawton/status/2105326434801840513",
+  "post_date": "2026-09-30",
+  "duration_seconds": 105.7,
+  "excerpt": "Introducing SideShift: the first AI creator marketer. AI can now scale your business better than ANY human. It’s",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.23
+    },
+    {
+      "start": 0.23,
+      "end": 8.8
+    },
+    {
+      "start": 8.8,
+      "end": 14.13
+    },
+    {
+      "start": 14.13,
+      "end": 21.67
+    },
+    {
+      "start": 21.67,
+      "end": 23.4
+    },
+    {
+      "start": 23.4,
+      "end": 38.13
+    },
+    {
+      "start": 38.13,
+      "end": 58.93
+    },
+    {
+      "start": 58.93,
+      "end": 97.53
+    },
+    {
+      "start": 97.53,
+      "end": 105.69
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 703233,
+      "likes": 1220,
+      "reposts": 144,
+      "replies": 526,
+      "bookmarks": 1419
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 703,233 views and 1,220 likes on the post itself, a like rate of 0.17 percent, below the library median of 0.56 percent. At 106 seconds it compares best with the 120 second structure. Scene detection found 9 shots, about 11.7 seconds each, with the first cut at 0.2 seconds."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "x-2061851845174387171",
+  "company": "PAI",
+  "title": "PAI launches the world's first floating AI agent",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/EonYulheon/status/2061851845174387171",
+  "post_date": "2026-06-02",
+  "duration_seconds": 174,
+  "excerpt": "Introducing PAl. Your Personal Super-Intelligence 🌀 > The World's 1st Floating AI Agent. Revolutionary User Experience > Always",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 154200,
+      "likes": 17,
+      "reposts": 3,
+      "replies": 10,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 154,200 views and 17 likes on the gallery listing, a like rate of 0.01 percent, below the library median of 0.56 percent. At 174 seconds it is a keynote length cut, longer than any timed structure here."
+}

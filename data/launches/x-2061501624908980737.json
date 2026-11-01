@@ -1,0 +1,31 @@
+{
+  "id": "x-2061501624908980737",
+  "company": "Zoomr",
+  "title": "Zoomr launches product demo builder",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/dramaricic/status/2061501624908980737",
+  "post_date": "2026-06-01",
+  "duration_seconds": 19,
+  "excerpt": "@loading_X__ @X Let’s connect🤝 I’ve built Zoomr, tool to create product demos:",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 116,
+      "likes": 1,
+      "reposts": 0,
+      "replies": 0,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 116 views and 1 likes on the gallery listing, a like rate of 0.86 percent, above the library median of 0.56 percent. At 19 seconds it compares best with the 15 second structure."
+}

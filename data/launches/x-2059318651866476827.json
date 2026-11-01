@@ -1,0 +1,31 @@
+{
+  "id": "x-2059318651866476827",
+  "company": "Arlo Industries",
+  "title": "Arlo Industries launch",
+  "owner": "third-party",
+  "category": "defense",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2059318651866476827",
+  "post_date": "2026-05-26",
+  "duration_seconds": 75,
+  "excerpt": "Arlo Industries builds passive sensor networks that track drones and missiles in 3D. No radar, no emissions, no",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 29538,
+      "likes": 271,
+      "reposts": 33,
+      "replies": 20,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 29,538 views and 271 likes on the gallery listing, a like rate of 0.92 percent, above the library median of 0.56 percent. At 75 seconds it compares best with the 60 second structure."
+}

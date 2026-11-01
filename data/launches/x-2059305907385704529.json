@@ -1,0 +1,31 @@
+{
+  "id": "x-2059305907385704529",
+  "company": "Base MCP",
+  "title": "Base MCP Agentic onchain",
+  "owner": "third-party",
+  "category": "crypto",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/base/status/2059305907385704529",
+  "post_date": "2026-05-26",
+  "duration_seconds": 31,
+  "excerpt": "Introducing Base MCP Your agent's new gateway to Base Connect an agent to your Base Account Enable it",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 941042,
+      "likes": 4247,
+      "reposts": 757,
+      "replies": 751,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 941,042 views and 4,247 likes on the gallery listing, a like rate of 0.45 percent, below the library median of 0.56 percent. At 31 seconds it compares best with the 30 second structure."
+}

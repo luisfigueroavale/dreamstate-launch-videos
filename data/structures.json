@@ -1,0 +1,185 @@
+{
+  "note": "Starting points, not platform rules. Clear value by second five, a real demo by second ten at the latest, and end when the claim is proven.",
+  "structures": [
+    {
+      "id": "15",
+      "seconds": 15,
+      "name": "15 second cut",
+      "min": 0,
+      "max": 20,
+      "beats": [
+        {
+          "start": 0,
+          "end": 2,
+          "beat": "Hook"
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "beat": "One proof unit"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "beat": "Result"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "beat": "One action"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "seconds": 30,
+      "name": "30 second cut",
+      "min": 20,
+      "max": 45,
+      "beats": [
+        {
+          "start": 0,
+          "end": 3,
+          "beat": "Strongest result"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "beat": "Promise"
+        },
+        {
+          "start": 5,
+          "end": 21,
+          "beat": "Demo"
+        },
+        {
+          "start": 21,
+          "end": 25,
+          "beat": "Objection or authority, if needed"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "beat": "Action"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "seconds": 60,
+      "name": "60 second cut",
+      "min": 45,
+      "max": 75,
+      "beats": [
+        {
+          "start": 0,
+          "end": 5,
+          "beat": "Hook"
+        },
+        {
+          "start": 5,
+          "end": 15,
+          "beat": "First aha"
+        },
+        {
+          "start": 15,
+          "end": 30,
+          "beat": "Second aha"
+        },
+        {
+          "start": 30,
+          "end": 43,
+          "beat": "Use case"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "beat": "Objection or authority"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "beat": "Action"
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "seconds": 90,
+      "name": "90 second cut",
+      "min": 75,
+      "max": 105,
+      "beats": [
+        {
+          "start": 0,
+          "end": 5,
+          "beat": "Hook"
+        },
+        {
+          "start": 5,
+          "end": 30,
+          "beat": "Main proof"
+        },
+        {
+          "start": 30,
+          "end": 55,
+          "beat": "Deeper demos"
+        },
+        {
+          "start": 55,
+          "end": 72,
+          "beat": "Difference or objection"
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "beat": "Authority, if useful"
+        },
+        {
+          "start": 80,
+          "end": 90,
+          "beat": "Action"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "seconds": 120,
+      "name": "120 second cut",
+      "min": 105,
+      "max": 150,
+      "beats": [
+        {
+          "start": 0,
+          "end": 5,
+          "beat": "Hook"
+        },
+        {
+          "start": 5,
+          "end": 30,
+          "beat": "Strongest proof"
+        },
+        {
+          "start": 30,
+          "end": 70,
+          "beat": "Linked demos"
+        },
+        {
+          "start": 70,
+          "end": 95,
+          "beat": "Deeper proof"
+        },
+        {
+          "start": 95,
+          "end": 108,
+          "beat": "Objection or authority"
+        },
+        {
+          "start": 108,
+          "end": 120,
+          "beat": "Action"
+        }
+      ]
+    }
+  ]
+}

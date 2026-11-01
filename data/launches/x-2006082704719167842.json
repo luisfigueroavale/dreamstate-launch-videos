@@ -1,0 +1,31 @@
+{
+  "id": "x-2006082704719167842",
+  "company": "AI Influencer Studio",
+  "title": "AI Influencer Studio launch",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/javiloureiro/status/2006082704719167842",
+  "post_date": "2025-12-30",
+  "duration_seconds": 36,
+  "excerpt": "We're launching on Product Hunt on December 31st! Our AI influencer studio is up and running. See how",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 199,
+      "likes": 8,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 199 views and 8 likes on the gallery listing, a like rate of 4.02 percent, above the library median of 0.56 percent. At 36 seconds it compares best with the 30 second structure."
+}

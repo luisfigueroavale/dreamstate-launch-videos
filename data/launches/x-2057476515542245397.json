@@ -1,0 +1,31 @@
+{
+  "id": "x-2057476515542245397",
+  "company": "Pentagon",
+  "title": "Pentagon launch",
+  "owner": "third-party",
+  "category": "productivity",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2057476515542245397",
+  "post_date": "2026-05-21",
+  "duration_seconds": 74,
+  "excerpt": "Pentagon (@runpentagon) is a coordination layer for humans and agents. Agents are everywhere at work now - coding,",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 93316,
+      "likes": 166,
+      "reposts": 31,
+      "replies": 23,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 93,316 views and 166 likes on the gallery listing, a like rate of 0.18 percent, below the library median of 0.56 percent. At 74 seconds it compares best with the 60 second structure."
+}

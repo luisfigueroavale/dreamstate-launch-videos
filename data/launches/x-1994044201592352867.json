@@ -1,0 +1,31 @@
+{
+  "id": "x-1994044201592352867",
+  "company": "InkFlow",
+  "title": "InkFlow launches an AI handwriting worksheet tool",
+  "owner": "third-party",
+  "category": "education-events",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ebenezerDN/status/1994044201592352867",
+  "post_date": "2025-11-27",
+  "duration_seconds": 90,
+  "excerpt": "EVERYONE I'm SUPER EXCITED to launch InkFlow today! 🎉🔥 Built with InkFlow is a FREE tool that lets",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 4206,
+      "likes": 107,
+      "reposts": 14,
+      "replies": 10,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 4,206 views and 107 likes on the gallery listing, a like rate of 2.54 percent, above the library median of 0.56 percent. At 90 seconds it compares best with the 90 second structure."
+}

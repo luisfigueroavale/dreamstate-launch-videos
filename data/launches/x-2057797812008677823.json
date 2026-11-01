@@ -1,0 +1,31 @@
+{
+  "id": "x-2057797812008677823",
+  "company": "AutoGTM Sales Agent",
+  "title": "Explee launches AutoGTM sales agent",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/socialwithaayan/status/2057797812008677823",
+  "post_date": "2026-05-22",
+  "duration_seconds": 22,
+  "excerpt": "🚨BREAKING: The first AI agent that does your ENTIRE outbound sales job just launched. Introducing AutoGTM by Explee,",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 31837,
+      "likes": 64,
+      "reposts": 22,
+      "replies": 26,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 31,837 views and 64 likes on the gallery listing, a like rate of 0.20 percent, below the library median of 0.56 percent. At 22 seconds it compares best with the 30 second structure."
+}

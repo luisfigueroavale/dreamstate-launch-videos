@@ -1,0 +1,68 @@
+{
+  "basis": "Labels are inferred from post text, not from watching the videos.",
+  "families": [
+    {
+      "id": "product-reveal",
+      "name": "Product reveal",
+      "summary": "The post leads with the name and the category: here is the new thing.",
+      "watch_for": "Works when the first frame already shows the product doing its job. Weak when it is only a logo and a label.",
+      "count": 105
+    },
+    {
+      "id": "input-output",
+      "name": "Input to output",
+      "summary": "A plain input becomes a finished result on screen.",
+      "watch_for": "The strongest proof family. Check that the input looks real and the output is not edited.",
+      "count": 66
+    },
+    {
+      "id": "specific-grievance",
+      "name": "Specific grievance",
+      "summary": "Opens on a named, familiar pain the viewer already feels.",
+      "watch_for": "Needs a fair baseline. The pain has to be shown or sourced, not just claimed.",
+      "count": 26
+    },
+    {
+      "id": "removed-constraint",
+      "name": "Removed constraint",
+      "summary": "Doing a known task without the usual requirement.",
+      "watch_for": "The missing requirement must truly be gone. State the exceptions.",
+      "count": 20
+    },
+    {
+      "id": "measurable-stakes",
+      "name": "Measurable stakes",
+      "summary": "Leads with a number: money, time, scale, or a result.",
+      "watch_for": "Ask whose number it is and how it was measured. Funding is not a result.",
+      "count": 9
+    },
+    {
+      "id": "authority-mission",
+      "name": "Authority and mission",
+      "summary": "A founder fact or a mission line earns trust before the demo.",
+      "watch_for": "Only useful when trust is the gap. The demo still has to follow fast.",
+      "count": 7
+    },
+    {
+      "id": "comparison",
+      "name": "Comparison",
+      "summary": "The same job done two ways, side by side.",
+      "watch_for": "Inputs, versions, and scope must match or the comparison misleads.",
+      "count": 4
+    },
+    {
+      "id": "objection-ownership",
+      "name": "Objection ownership",
+      "summary": "Names the common complaint about the category, then answers it.",
+      "watch_for": "The output on screen has to actually answer the complaint.",
+      "count": 3
+    },
+    {
+      "id": "unclear",
+      "name": "Not labeled",
+      "summary": "The post text did not make the hook clear, or the record has not been labeled.",
+      "watch_for": "Watch the first five seconds and label it with add-launch-record.",
+      "count": 42
+    }
+  ]
+}

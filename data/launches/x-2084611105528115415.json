@@ -1,0 +1,88 @@
+{
+  "id": "x-2084611105528115415",
+  "company": "Arcads",
+  "title": "Arcads raise",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/arcads_ai/status/2084611105528115415",
+  "post_date": "2026-08-04",
+  "duration_seconds": 114.3,
+  "excerpt": "We raised $16M to build Claude Code for Meta Ads Introducing Mark: The only AI built for winning",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 1.17
+    },
+    {
+      "start": 1.17,
+      "end": 1.87
+    },
+    {
+      "start": 1.87,
+      "end": 3.37
+    },
+    {
+      "start": 3.37,
+      "end": 5.5
+    },
+    {
+      "start": 5.5,
+      "end": 8.03
+    },
+    {
+      "start": 8.03,
+      "end": 15.7
+    },
+    {
+      "start": 15.7,
+      "end": 22.13
+    },
+    {
+      "start": 22.13,
+      "end": 27.87
+    },
+    {
+      "start": 27.87,
+      "end": 29.93
+    },
+    {
+      "start": 29.93,
+      "end": 60.27
+    },
+    {
+      "start": 60.27,
+      "end": 71.33
+    },
+    {
+      "start": 71.33,
+      "end": 98.0
+    },
+    {
+      "start": 98.0,
+      "end": 109.3
+    },
+    {
+      "start": 109.3,
+      "end": 114.34
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 653198,
+      "likes": 1223,
+      "reposts": 60,
+      "replies": 207,
+      "bookmarks": 1762
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 653,198 views and 1,223 likes on the post itself, a like rate of 0.19 percent, below the library median of 0.56 percent. At 114 seconds it compares best with the 120 second structure. Scene detection found 14 shots, about 8.2 seconds each, with the first cut at 1.2 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

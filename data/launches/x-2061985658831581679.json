@@ -1,0 +1,31 @@
+{
+  "id": "x-2061985658831581679",
+  "company": "MyPlantHealth",
+  "title": "MyPlantHealth launches AI plant ID and disease diagnosis app",
+  "owner": "third-party",
+  "category": "consumer",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/masadchattha/status/2061985658831581679",
+  "post_date": "2026-06-03",
+  "duration_seconds": 50,
+  "excerpt": "I've killed more houseplants than I care to admit. So I built an #iOS app that names any",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 250,
+      "likes": 8,
+      "reposts": 1,
+      "replies": 8,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 250 views and 8 likes on the gallery listing, a like rate of 3.20 percent, above the library median of 0.56 percent. At 50 seconds it compares best with the 60 second structure."
+}

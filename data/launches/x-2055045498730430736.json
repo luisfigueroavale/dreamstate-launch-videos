@@ -1,0 +1,31 @@
+{
+  "id": "x-2055045498730430736",
+  "company": "Astraea",
+  "title": "Astraea launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2055045498730430736",
+  "post_date": "2026-05-14",
+  "duration_seconds": 45,
+  "excerpt": "Astraea brings drugs to market faster by fully automating clinical trial biometrics, turning raw study data into CDISC-compliant",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 12283,
+      "likes": 68,
+      "reposts": 6,
+      "replies": 11,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 12,283 views and 68 likes on the gallery listing, a like rate of 0.55 percent, close to the library median of 0.56 percent. At 45 seconds it compares best with the 30 second structure."
+}

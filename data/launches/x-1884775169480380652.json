@@ -1,0 +1,70 @@
+{
+  "id": "x-1884775169480380652",
+  "company": "Sahara Legends",
+  "title": "Sahara Legends AI workforce",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/SaharaAI/status/1884775169480380652",
+  "post_date": "2025-01-30",
+  "duration_seconds": 17.7,
+  "excerpt": "Introducing Sahara Legends: A new, gamified way to explore the Sahara AI ecosystem.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 3.5
+    },
+    {
+      "start": 3.5,
+      "end": 4.47
+    },
+    {
+      "start": 4.47,
+      "end": 6.63
+    },
+    {
+      "start": 6.63,
+      "end": 8.07
+    },
+    {
+      "start": 8.07,
+      "end": 8.2
+    },
+    {
+      "start": 8.2,
+      "end": 11.53
+    },
+    {
+      "start": 11.53,
+      "end": 17.72
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 4784906,
+      "likes": 223918,
+      "reposts": 324250,
+      "replies": 4575,
+      "bookmarks": 823
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 4530925,
+      "likes": 251926,
+      "reposts": 363019,
+      "replies": 4592,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 4,784,906 views and 223,918 likes on the post itself, a like rate of 4.68 percent, above the library median of 0.56 percent. At 18 seconds it compares best with the 15 second structure. Scene detection found 7 shots, about 2.5 seconds each, with the first cut at 3.5 seconds."
+}

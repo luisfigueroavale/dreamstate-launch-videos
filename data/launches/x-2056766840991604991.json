@@ -1,0 +1,31 @@
+{
+  "id": "x-2056766840991604991",
+  "company": "Zibra Labs",
+  "title": "Zibra Labs HPC / quant trading backtesting",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2056766840991604991",
+  "post_date": "2026-05-19",
+  "duration_seconds": 90,
+  "excerpt": "Zibra Labs (@zibra_labs) is building HPC clusters that let quantitative trading firms run 100x more backtests at scale.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 9422,
+      "likes": 64,
+      "reposts": 7,
+      "replies": 9,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 9,422 views and 64 likes on the gallery listing, a like rate of 0.68 percent, above the library median of 0.56 percent. At 90 seconds it compares best with the 90 second structure."
+}

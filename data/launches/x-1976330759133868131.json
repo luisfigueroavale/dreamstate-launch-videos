@@ -1,0 +1,31 @@
+{
+  "id": "x-1976330759133868131",
+  "company": "Wabi",
+  "title": "Wabi launch",
+  "owner": "third-party",
+  "category": "consumer",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/wabi/status/1976330759133868131",
+  "post_date": "2025-10-09",
+  "duration_seconds": 19,
+  "excerpt": "T̶h̶e̶r̶e̶'s̶ ̶a̶n̶ ̶a̶p̶p̶ f̶o̶r̶ t̶h̶̶a̶t̶ There’s an app for you. Meet Wabi: the first personal software platform. Generate",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1153076,
+      "likes": 1713,
+      "reposts": 144,
+      "replies": 139,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 1,153,076 views and 1,713 likes on the gallery listing, a like rate of 0.15 percent, below the library median of 0.56 percent. At 19 seconds it compares best with the 15 second structure."
+}

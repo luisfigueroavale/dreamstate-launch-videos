@@ -1,0 +1,90 @@
+{
+  "id": "x-2061836966891565337",
+  "company": "ZeroDrift",
+  "title": "ZeroDrift raises $10M seed for AI communications compliance",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/kumesh_a/status/2061836966891565337",
+  "post_date": "2026-06-02",
+  "duration_seconds": 141.9,
+  "excerpt": "ZeroDrift raised an oversubscribed $10,000,000 seed round to enforce compliance on AI communications, just 3 months after launching",
+  "hook_family": "authority-mission",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 2.5
+    },
+    {
+      "start": 2.5,
+      "end": 4.13
+    },
+    {
+      "start": 4.13,
+      "end": 5.59
+    },
+    {
+      "start": 5.59,
+      "end": 7.13
+    },
+    {
+      "start": 7.13,
+      "end": 7.8
+    },
+    {
+      "start": 7.8,
+      "end": 26.57
+    },
+    {
+      "start": 26.57,
+      "end": 46.63
+    },
+    {
+      "start": 46.63,
+      "end": 62.94
+    },
+    {
+      "start": 62.94,
+      "end": 87.21
+    },
+    {
+      "start": 87.21,
+      "end": 111.9
+    },
+    {
+      "start": 111.9,
+      "end": 121.04
+    },
+    {
+      "start": 121.04,
+      "end": 141.87
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 5810785,
+      "likes": 279,
+      "reposts": 34,
+      "replies": 32,
+      "bookmarks": 88
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 5800000,
+      "likes": 252,
+      "reposts": 23,
+      "replies": 24,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an authority and mission line. That label comes from the post text, not from watching the video. Reported 5,810,785 views and 279 likes on the post itself, a like rate of 0.00 percent, below the library median of 0.56 percent. At 142 seconds it compares best with the 120 second structure. Scene detection found 12 shots, about 11.8 seconds each, with the first cut at 2.5 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

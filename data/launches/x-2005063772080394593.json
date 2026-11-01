@@ -1,0 +1,31 @@
+{
+  "id": "x-2005063772080394593",
+  "company": "Relay macOS",
+  "title": "Relay launch",
+  "owner": "third-party",
+  "category": "productivity",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/nerdix_ceo/status/2005063772080394593",
+  "post_date": "2025-12-27",
+  "duration_seconds": 106,
+  "excerpt": "In the few days before 2026 I will launch the first version of my indie app with gifting",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 165,
+      "likes": 5,
+      "reposts": 1,
+      "replies": 1,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 165 views and 5 likes on the gallery listing, a like rate of 3.03 percent, above the library median of 0.56 percent. At 106 seconds it compares best with the 120 second structure."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "x-2065049432652189933",
+  "company": "Kickbacks",
+  "title": "Andrew McCalip launch",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/andrewmccalip/status/2065049432652189933",
+  "post_date": "2026-06-11",
+  "duration_seconds": 24.5,
+  "excerpt": "Get paid to wait The Claude Code spinner might be the most watched line on Earth. So I",
+  "hook_family": "measurable-stakes",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.93
+    },
+    {
+      "start": 0.93,
+      "end": 24.5
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 8284051,
+      "likes": 13188,
+      "reposts": 491,
+      "replies": 1135,
+      "bookmarks": 9526
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 7700000,
+      "likes": 13199,
+      "reposts": 501,
+      "replies": 1123,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a measurable stakes line. That label comes from the post text, not from watching the video. Reported 8,284,051 views and 13,188 likes on the post itself, a like rate of 0.16 percent, below the library median of 0.56 percent. At 24 seconds it compares best with the 30 second structure. Scene detection found 2 shots, about 12.2 seconds each, with the first cut at 0.9 seconds."
+}

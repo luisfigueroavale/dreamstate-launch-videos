@@ -1,0 +1,31 @@
+{
+  "id": "x-2004604772410962242",
+  "company": "TrackMyLogs",
+  "title": "TrackMyLogs launches an AI assistant for car owners",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/vadympetryshyn/status/2004604772410962242",
+  "post_date": "2025-12-26",
+  "duration_seconds": 108,
+  "excerpt": "🚘 I just launched my app for drivers It’s an AI Assistant for Car Owners that helps you:",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 318,
+      "likes": 10,
+      "reposts": 0,
+      "replies": 5,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 318 views and 10 likes on the gallery listing, a like rate of 3.14 percent, above the library median of 0.56 percent. At 108 seconds it compares best with the 120 second structure."
+}

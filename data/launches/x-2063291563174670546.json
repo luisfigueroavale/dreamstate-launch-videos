@@ -1,0 +1,31 @@
+{
+  "id": "x-2063291563174670546",
+  "company": "SectionStore",
+  "title": "Reviews+ launches for Shopify stores",
+  "owner": "third-party",
+  "category": "ecommerce-retail",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/burkisoy/status/2063291563174670546",
+  "post_date": "2026-06-06",
+  "duration_seconds": 46,
+  "excerpt": "Why are shopify stores still paying $49/mo for customer review apps that tank their site speed? We just",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 2900,
+      "likes": 13,
+      "reposts": 2,
+      "replies": 1,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 2,900 views and 13 likes on the gallery listing, a like rate of 0.45 percent, below the library median of 0.56 percent. At 46 seconds it compares best with the 60 second structure."
+}

@@ -1,0 +1,120 @@
+{
+  "id": "x-2104624129626309024",
+  "company": "Wajo",
+  "title": "Wajo launch",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/shivanipod/status/2104624129626309024",
+  "post_date": "2026-09-28",
+  "duration_seconds": 154.0,
+  "excerpt": "I led engineering at Google DeepMind. Today, I'm proud to introduce Fo to give personal AI something no",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.2
+    },
+    {
+      "start": 0.2,
+      "end": 5.57
+    },
+    {
+      "start": 5.57,
+      "end": 8.03
+    },
+    {
+      "start": 8.03,
+      "end": 10.33
+    },
+    {
+      "start": 10.33,
+      "end": 14.6
+    },
+    {
+      "start": 14.6,
+      "end": 17.03
+    },
+    {
+      "start": 17.03,
+      "end": 18.87
+    },
+    {
+      "start": 18.87,
+      "end": 19.2
+    },
+    {
+      "start": 19.2,
+      "end": 19.27
+    },
+    {
+      "start": 19.27,
+      "end": 19.3
+    },
+    {
+      "start": 19.3,
+      "end": 29.87
+    },
+    {
+      "start": 29.87,
+      "end": 31.2
+    },
+    {
+      "start": 31.2,
+      "end": 33.5
+    },
+    {
+      "start": 33.5,
+      "end": 43.77
+    },
+    {
+      "start": 43.77,
+      "end": 73.13
+    },
+    {
+      "start": 73.13,
+      "end": 74.67
+    },
+    {
+      "start": 74.67,
+      "end": 109.37
+    },
+    {
+      "start": 109.37,
+      "end": 123.37
+    },
+    {
+      "start": 123.37,
+      "end": 123.97
+    },
+    {
+      "start": 123.97,
+      "end": 124.43
+    },
+    {
+      "start": 124.43,
+      "end": 125.53
+    },
+    {
+      "start": 125.53,
+      "end": 154.03
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2987359,
+      "likes": 6550,
+      "reposts": 678,
+      "replies": 755,
+      "bookmarks": 4940
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 2,987,359 views and 6,550 likes on the post itself, a like rate of 0.22 percent, below the library median of 0.56 percent. At 154 seconds it is a keynote length cut, longer than any timed structure here. Scene detection found 22 shots, about 7.0 seconds each, with the first cut at 0.2 seconds."
+}

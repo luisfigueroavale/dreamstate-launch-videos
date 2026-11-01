@@ -1,0 +1,162 @@
+{
+  "id": "x-2058990537555018228",
+  "company": "BioStack",
+  "title": "BioStack launch",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2058990537555018228",
+  "post_date": "2026-05-25",
+  "duration_seconds": 73.1,
+  "excerpt": "BioStack (@getbiostack) builds simulation environments where healthcare AI models practice on real clinical data. Messy records, lab tests,",
+  "hook_family": "measurable-stakes",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "start": 0.4,
+      "end": 0.6
+    },
+    {
+      "start": 0.6,
+      "end": 0.87
+    },
+    {
+      "start": 0.87,
+      "end": 1.07
+    },
+    {
+      "start": 1.07,
+      "end": 1.3
+    },
+    {
+      "start": 1.3,
+      "end": 1.53
+    },
+    {
+      "start": 1.53,
+      "end": 1.77
+    },
+    {
+      "start": 1.77,
+      "end": 1.97
+    },
+    {
+      "start": 1.97,
+      "end": 2.23
+    },
+    {
+      "start": 2.23,
+      "end": 2.43
+    },
+    {
+      "start": 2.43,
+      "end": 2.7
+    },
+    {
+      "start": 2.7,
+      "end": 2.9
+    },
+    {
+      "start": 2.9,
+      "end": 3.13
+    },
+    {
+      "start": 3.13,
+      "end": 3.37
+    },
+    {
+      "start": 3.37,
+      "end": 3.6
+    },
+    {
+      "start": 3.6,
+      "end": 9.07
+    },
+    {
+      "start": 9.07,
+      "end": 13.07
+    },
+    {
+      "start": 13.07,
+      "end": 15.0
+    },
+    {
+      "start": 15.0,
+      "end": 15.83
+    },
+    {
+      "start": 15.83,
+      "end": 16.6
+    },
+    {
+      "start": 16.6,
+      "end": 25.0
+    },
+    {
+      "start": 25.0,
+      "end": 26.13
+    },
+    {
+      "start": 26.13,
+      "end": 35.17
+    },
+    {
+      "start": 35.17,
+      "end": 37.23
+    },
+    {
+      "start": 37.23,
+      "end": 37.27
+    },
+    {
+      "start": 37.27,
+      "end": 38.57
+    },
+    {
+      "start": 38.57,
+      "end": 40.9
+    },
+    {
+      "start": 40.9,
+      "end": 42.43
+    },
+    {
+      "start": 42.43,
+      "end": 56.4
+    },
+    {
+      "start": 56.4,
+      "end": 73.09
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2256574,
+      "likes": 260,
+      "reposts": 19,
+      "replies": 17,
+      "bookmarks": 189
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 2252858,
+      "likes": 262,
+      "reposts": 20,
+      "replies": 16,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a measurable stakes line. That label comes from the post text, not from watching the video. Reported 2,256,574 views and 260 likes on the post itself, a like rate of 0.01 percent, below the library median of 0.56 percent. At 73 seconds it compares best with the 60 second structure. Scene detection found 30 shots, about 2.4 seconds each, with the first cut at 0.4 seconds."
+}

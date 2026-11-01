@@ -1,0 +1,31 @@
+{
+  "id": "x-2062793259047383305",
+  "company": "Zypher",
+  "title": "Zypher launch",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ZypherHQ/status/2062793259047383305",
+  "post_date": "2026-06-05",
+  "duration_seconds": 18,
+  "excerpt": "Introducing /backend-doctor Your AI agent wrote bad backend code. This catches it. Detects swallowed errors, placeholder tests, missing",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 17800,
+      "likes": 229,
+      "reposts": 35,
+      "replies": 39,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 17,800 views and 229 likes on the gallery listing, a like rate of 1.29 percent, above the library median of 0.56 percent. At 18 seconds it compares best with the 15 second structure."
+}

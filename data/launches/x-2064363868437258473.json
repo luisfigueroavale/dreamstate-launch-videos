@@ -1,0 +1,390 @@
+{
+  "id": "x-2064363868437258473",
+  "company": "CrowdReply",
+  "title": "CrowdReply launch",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/Crowdreply_io/status/2064363868437258473",
+  "post_date": "2026-06-09",
+  "duration_seconds": 47.3,
+  "excerpt": "Introducing Searchmaxxing. The new discipline for being visible everywhere AI looks. Across all platforms. This is how big",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "start": 0.12,
+      "end": 0.5
+    },
+    {
+      "start": 0.5,
+      "end": 0.67
+    },
+    {
+      "start": 0.67,
+      "end": 1.42
+    },
+    {
+      "start": 1.42,
+      "end": 2.71
+    },
+    {
+      "start": 2.71,
+      "end": 2.83
+    },
+    {
+      "start": 2.83,
+      "end": 3.83
+    },
+    {
+      "start": 3.83,
+      "end": 4.04
+    },
+    {
+      "start": 4.04,
+      "end": 4.46
+    },
+    {
+      "start": 4.46,
+      "end": 4.58
+    },
+    {
+      "start": 4.58,
+      "end": 4.96
+    },
+    {
+      "start": 4.96,
+      "end": 5.08
+    },
+    {
+      "start": 5.08,
+      "end": 5.17
+    },
+    {
+      "start": 5.17,
+      "end": 5.29
+    },
+    {
+      "start": 5.29,
+      "end": 5.33
+    },
+    {
+      "start": 5.33,
+      "end": 5.92
+    },
+    {
+      "start": 5.92,
+      "end": 6.75
+    },
+    {
+      "start": 6.75,
+      "end": 7.5
+    },
+    {
+      "start": 7.5,
+      "end": 7.58
+    },
+    {
+      "start": 7.58,
+      "end": 8.33
+    },
+    {
+      "start": 8.33,
+      "end": 8.38
+    },
+    {
+      "start": 8.38,
+      "end": 8.42
+    },
+    {
+      "start": 8.42,
+      "end": 9.83
+    },
+    {
+      "start": 9.83,
+      "end": 10.0
+    },
+    {
+      "start": 10.0,
+      "end": 10.17
+    },
+    {
+      "start": 10.17,
+      "end": 10.25
+    },
+    {
+      "start": 10.25,
+      "end": 10.42
+    },
+    {
+      "start": 10.42,
+      "end": 10.5
+    },
+    {
+      "start": 10.5,
+      "end": 10.58
+    },
+    {
+      "start": 10.58,
+      "end": 10.67
+    },
+    {
+      "start": 10.67,
+      "end": 10.75
+    },
+    {
+      "start": 10.75,
+      "end": 10.83
+    },
+    {
+      "start": 10.83,
+      "end": 11.04
+    },
+    {
+      "start": 11.04,
+      "end": 11.12
+    },
+    {
+      "start": 11.12,
+      "end": 11.33
+    },
+    {
+      "start": 11.33,
+      "end": 11.67
+    },
+    {
+      "start": 11.67,
+      "end": 11.92
+    },
+    {
+      "start": 11.92,
+      "end": 12.21
+    },
+    {
+      "start": 12.21,
+      "end": 12.54
+    },
+    {
+      "start": 12.54,
+      "end": 12.62
+    },
+    {
+      "start": 12.62,
+      "end": 12.83
+    },
+    {
+      "start": 12.83,
+      "end": 13.25
+    },
+    {
+      "start": 13.25,
+      "end": 13.29
+    },
+    {
+      "start": 13.29,
+      "end": 13.96
+    },
+    {
+      "start": 13.96,
+      "end": 14.29
+    },
+    {
+      "start": 14.29,
+      "end": 14.71
+    },
+    {
+      "start": 14.71,
+      "end": 14.79
+    },
+    {
+      "start": 14.79,
+      "end": 14.92
+    },
+    {
+      "start": 14.92,
+      "end": 15.04
+    },
+    {
+      "start": 15.04,
+      "end": 15.17
+    },
+    {
+      "start": 15.17,
+      "end": 15.58
+    },
+    {
+      "start": 15.58,
+      "end": 15.83
+    },
+    {
+      "start": 15.83,
+      "end": 15.92
+    },
+    {
+      "start": 15.92,
+      "end": 16.21
+    },
+    {
+      "start": 16.21,
+      "end": 17.12
+    },
+    {
+      "start": 17.12,
+      "end": 18.08
+    },
+    {
+      "start": 18.08,
+      "end": 18.12
+    },
+    {
+      "start": 18.12,
+      "end": 18.79
+    },
+    {
+      "start": 18.79,
+      "end": 21.38
+    },
+    {
+      "start": 21.38,
+      "end": 23.25
+    },
+    {
+      "start": 23.25,
+      "end": 23.29
+    },
+    {
+      "start": 23.29,
+      "end": 24.21
+    },
+    {
+      "start": 24.21,
+      "end": 25.25
+    },
+    {
+      "start": 25.25,
+      "end": 25.75
+    },
+    {
+      "start": 25.75,
+      "end": 26.5
+    },
+    {
+      "start": 26.5,
+      "end": 27.71
+    },
+    {
+      "start": 27.71,
+      "end": 27.75
+    },
+    {
+      "start": 27.75,
+      "end": 28.25
+    },
+    {
+      "start": 28.25,
+      "end": 28.5
+    },
+    {
+      "start": 28.5,
+      "end": 28.62
+    },
+    {
+      "start": 28.62,
+      "end": 28.75
+    },
+    {
+      "start": 28.75,
+      "end": 28.92
+    },
+    {
+      "start": 28.92,
+      "end": 29.08
+    },
+    {
+      "start": 29.08,
+      "end": 29.17
+    },
+    {
+      "start": 29.17,
+      "end": 29.58
+    },
+    {
+      "start": 29.58,
+      "end": 30.0
+    },
+    {
+      "start": 30.0,
+      "end": 30.33
+    },
+    {
+      "start": 30.33,
+      "end": 30.71
+    },
+    {
+      "start": 30.71,
+      "end": 32.17
+    },
+    {
+      "start": 32.17,
+      "end": 32.83
+    },
+    {
+      "start": 32.83,
+      "end": 32.92
+    },
+    {
+      "start": 32.92,
+      "end": 33.38
+    },
+    {
+      "start": 33.38,
+      "end": 34.21
+    },
+    {
+      "start": 34.21,
+      "end": 35.54
+    },
+    {
+      "start": 35.54,
+      "end": 35.71
+    },
+    {
+      "start": 35.71,
+      "end": 39.29
+    },
+    {
+      "start": 39.29,
+      "end": 47.25
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 1642815,
+      "likes": 287,
+      "reposts": 50,
+      "replies": 91,
+      "bookmarks": 279
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1600000,
+      "likes": 260,
+      "reposts": 34,
+      "replies": 96,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 1,642,815 views and 287 likes on the post itself, a like rate of 0.02 percent, below the library median of 0.56 percent. At 47 seconds it compares best with the 60 second structure. Scene detection found 87 shots, about 0.5 seconds each, with the first cut at 0.1 seconds."
+}

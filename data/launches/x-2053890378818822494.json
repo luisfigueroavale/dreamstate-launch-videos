@@ -1,0 +1,31 @@
+{
+  "id": "x-2053890378818822494",
+  "company": "Scope",
+  "title": "Scope launch",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2053890378818822494",
+  "post_date": "2026-05-11",
+  "duration_seconds": 70,
+  "excerpt": "Scope (@tryscope_app) helps companies see when AI agents choose them, get stuck, or pick a competitor, and what",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 60542,
+      "likes": 254,
+      "reposts": 34,
+      "replies": 77,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 60,542 views and 254 likes on the gallery listing, a like rate of 0.42 percent, below the library median of 0.56 percent. At 70 seconds it compares best with the 60 second structure."
+}

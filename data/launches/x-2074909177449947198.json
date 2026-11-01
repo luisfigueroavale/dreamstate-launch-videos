@@ -1,0 +1,140 @@
+{
+  "id": "x-2074909177449947198",
+  "company": "PromptQL",
+  "title": "PromptQL raise",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/tanmaigo/status/2074909177449947198",
+  "post_date": "2026-07-08",
+  "duration_seconds": 165.7,
+  "excerpt": "We raised $136M to kill Slack. Introducing PromptQL: The first AI version of Slack. Here’s how it works:",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.23
+    },
+    {
+      "start": 0.23,
+      "end": 1.43
+    },
+    {
+      "start": 1.43,
+      "end": 2.9
+    },
+    {
+      "start": 2.9,
+      "end": 4.67
+    },
+    {
+      "start": 4.67,
+      "end": 8.27
+    },
+    {
+      "start": 8.27,
+      "end": 12.73
+    },
+    {
+      "start": 12.73,
+      "end": 13.83
+    },
+    {
+      "start": 13.83,
+      "end": 18.67
+    },
+    {
+      "start": 18.67,
+      "end": 26.47
+    },
+    {
+      "start": 26.47,
+      "end": 29.0
+    },
+    {
+      "start": 29.0,
+      "end": 31.67
+    },
+    {
+      "start": 31.67,
+      "end": 34.67
+    },
+    {
+      "start": 34.67,
+      "end": 60.7
+    },
+    {
+      "start": 60.7,
+      "end": 69.87
+    },
+    {
+      "start": 69.87,
+      "end": 80.07
+    },
+    {
+      "start": 80.07,
+      "end": 93.77
+    },
+    {
+      "start": 93.77,
+      "end": 101.3
+    },
+    {
+      "start": 101.3,
+      "end": 105.3
+    },
+    {
+      "start": 105.3,
+      "end": 116.23
+    },
+    {
+      "start": 116.23,
+      "end": 121.0
+    },
+    {
+      "start": 121.0,
+      "end": 121.03
+    },
+    {
+      "start": 121.03,
+      "end": 127.23
+    },
+    {
+      "start": 127.23,
+      "end": 131.2
+    },
+    {
+      "start": 131.2,
+      "end": 152.63
+    },
+    {
+      "start": 152.63,
+      "end": 157.9
+    },
+    {
+      "start": 157.9,
+      "end": 162.73
+    },
+    {
+      "start": 162.73,
+      "end": 165.72
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 3225107,
+      "likes": 4210,
+      "reposts": 406,
+      "replies": 767,
+      "bookmarks": 3378
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 3,225,107 views and 4,210 likes on the post itself, a like rate of 0.13 percent, below the library median of 0.56 percent. At 166 seconds it is a keynote length cut, longer than any timed structure here. Scene detection found 27 shots, about 6.1 seconds each, with the first cut at 0.2 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

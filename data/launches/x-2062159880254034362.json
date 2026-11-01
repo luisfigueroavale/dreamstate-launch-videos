@@ -1,0 +1,31 @@
+{
+  "id": "x-2062159880254034362",
+  "company": "Playabl",
+  "title": "Playabl User-generated games",
+  "owner": "third-party",
+  "category": "consumer",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062159880254034362",
+  "post_date": "2026-06-03",
+  "duration_seconds": 41,
+  "excerpt": "The TikTok for user-generated games: anyone can play, create, publish, and monetize. Hit 1M organic plays across 3,000",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 148547,
+      "likes": 1079,
+      "reposts": 75,
+      "replies": 101,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 148,547 views and 1,079 likes on the gallery listing, a like rate of 0.73 percent, above the library median of 0.56 percent. At 41 seconds it compares best with the 30 second structure."
+}

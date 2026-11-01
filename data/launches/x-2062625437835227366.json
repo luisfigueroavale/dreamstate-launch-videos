@@ -1,0 +1,31 @@
+{
+  "id": "x-2062625437835227366",
+  "company": "RASPIRE",
+  "title": "RASPIRE Mobile app security",
+  "owner": "third-party",
+  "category": "security",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062625437835227366",
+  "post_date": "2026-06-04",
+  "duration_seconds": 91,
+  "excerpt": "RASPIRE (@raspire_) is building app security at AI speed. Protects Android/iOS apps from fraud, reverse engineering, and API",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 315073,
+      "likes": 1823,
+      "reposts": 418,
+      "replies": 85,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 315,073 views and 1,823 likes on the gallery listing, a like rate of 0.58 percent, close to the library median of 0.56 percent. At 91 seconds it compares best with the 90 second structure."
+}

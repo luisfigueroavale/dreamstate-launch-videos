@@ -1,0 +1,31 @@
+{
+  "id": "x-2062595238749687896",
+  "company": "Autostep",
+  "title": "Autostep Enterprise workflow automation",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062595238749687896",
+  "post_date": "2026-06-04",
+  "duration_seconds": 65,
+  "excerpt": "Autostep finds repetitive work in your company (emails, decks, reports), then spawns agents to fix it proactively.",
+  "hook_family": "unclear",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 20210,
+      "likes": 141,
+      "reposts": 11,
+      "replies": 22,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 20,210 views and 141 likes on the gallery listing, a like rate of 0.70 percent, above the library median of 0.56 percent. At 65 seconds it compares best with the 60 second structure."
+}

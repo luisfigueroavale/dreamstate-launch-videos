@@ -1,0 +1,31 @@
+{
+  "id": "x-2057853996128436553",
+  "company": "Hessian",
+  "title": "Hessian launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2057853996128436553",
+  "post_date": "2026-05-22",
+  "duration_seconds": 75,
+  "excerpt": "Every company is racing to adopt AI, but many don't know where to start",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 15615,
+      "likes": 137,
+      "reposts": 18,
+      "replies": 21,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 15,615 views and 137 likes on the gallery listing, a like rate of 0.88 percent, above the library median of 0.56 percent. At 75 seconds it compares best with the 60 second structure."
+}

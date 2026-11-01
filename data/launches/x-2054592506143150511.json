@@ -1,0 +1,31 @@
+{
+  "id": "x-2054592506143150511",
+  "company": "Foresight",
+  "title": "Foresight launch",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2054592506143150511",
+  "post_date": "2026-05-13",
+  "duration_seconds": 77,
+  "excerpt": "Foresight (@foresight_inc) builds AI-powered simulations of consumers, letting CPG, retail, and tech teams predict reactions to any launch",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 30244,
+      "likes": 167,
+      "reposts": 16,
+      "replies": 14,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 30,244 views and 167 likes on the gallery listing, a like rate of 0.55 percent, close to the library median of 0.56 percent. At 77 seconds it compares best with the 90 second structure."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "x-1983886513604587615",
+  "company": "Base44",
+  "title": "Base44 launch",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/Base44/status/1983886513604587615",
+  "post_date": "2025-10-30",
+  "duration_seconds": 59,
+  "excerpt": "Entering a new era of Base44. We’re launching an All-New Builder - and it changes everything. Instead of",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 15315,
+      "likes": 114,
+      "reposts": 11,
+      "replies": 18,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 15,315 views and 114 likes on the gallery listing, a like rate of 0.74 percent, above the library median of 0.56 percent. At 59 seconds it compares best with the 60 second structure."
+}
