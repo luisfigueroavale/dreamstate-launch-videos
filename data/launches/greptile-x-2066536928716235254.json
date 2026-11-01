@@ -1,8 +1,8 @@
 {
   "id": "x-2066536928716235254",
   "company": "Greptile",
-  "product": null,
-  "title": "Introducing T-Rex: Code execution for PR reviews",
+  "product": "T-Rex",
+  "title": "Greptile T-Rex: code execution for PR reviews",
   "posted_by": "@dakshgup",
   "owner": "third-party",
   "category": "developer-tools",

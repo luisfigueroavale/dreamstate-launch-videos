@@ -46,11 +46,14 @@ export default function Gallery({ cards, hooks, categories }: { cards: Card[]; h
     });
     // Nulls always sort last. A missing number is not zero.
     if (sort === "company")
-      return list.sort((a, z) => (a.company ?? "~").localeCompare(z.company ?? "~", "en", { sensitivity: "base" }));
+      return list.sort((a, z) => {
+        if (a.company === null || z.company === null) return a.company === null ? (z.company === null ? 0 : 1) : -1;
+        return a.company.localeCompare(z.company, "en", { sensitivity: "base" });
+      });
     const key = (c: Card): number | null => (sort === "date" ? (c.date ? Date.parse(c.date) : null) : c[sort]);
     return list.sort((a, z) => {
       const x = key(a), y = key(z);
-      if (x === null && y === null) return (a.company ?? "~").localeCompare(z.company ?? "~");
+      if (x === null && y === null) return (a.company ?? "").localeCompare(z.company ?? "");
       if (x === null) return 1;
       if (y === null) return -1;
       return y - x;

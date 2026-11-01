@@ -14,7 +14,7 @@ type Props = { params: Promise<{ slug: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const l = getLaunch((await params).slug);
-  return { title: l ? `${companyLabel(l)}: ${l.title}` : "Launch" };
+  return { title: l ? l.title : "Launch" };
 }
 
 const BASIS: Record<string, string> = {
@@ -154,7 +154,7 @@ export default async function LaunchPage({ params }: Props) {
             <h3>Record</h3>
             <dl className="facts">
               <div><dt>Company</dt><dd>{companyLabel(l)}</dd></div>
-              <div><dt>Product</dt><dd>{l.product ?? "Same as company"}</dd></div>
+              <div><dt>Product</dt><dd>{l.product ?? (l.company ? "Same as company" : "Not named")}</dd></div>
               <div><dt>Posted by</dt><dd>{l.posted_by}</dd></div>
               <div><dt>Posted</dt><dd>{fmtDate(l.post_date)}</dd></div>
               <div><dt>Length</dt><dd>{fmtDuration(l.duration_seconds)}</dd></div>

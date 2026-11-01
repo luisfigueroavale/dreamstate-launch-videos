@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getHooks, getLaunches, primarySnapshot, likeRate } from "@/lib/data";
+import { getHooks, getLaunches, primarySnapshot, likeRate, companyLabel } from "@/lib/data";
 import { fmtCompact, fmtRate } from "@/lib/format";
 
 export const metadata: Metadata = { title: "Hooks" };
@@ -44,7 +44,7 @@ export default function HooksPage() {
               <div className="mini-list">
                 {rows.slice(0, 5).map(({ l, s }) => (
                   <Link key={l.id} href={`/launches/${l.slug}/`}>
-                    <span>{l.company ?? l.product ?? l.posted_by}</span>
+                    <span>{companyLabel(l)}</span>
                     <span>{fmtCompact(s!.views)} views</span>
                   </Link>
                 ))}
