@@ -60,8 +60,8 @@ export default function StructuresPage() {
               {inBand.length > 0 && (
                 <div className="mini-list" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(240px, 1fr))", display: "grid" }}>
                   {inBand.slice(0, 6).map(({ l, v }) => (
-                    <Link key={l.id} href={`/v/${l.id}/`}>
-                      <span>{l.company}</span>
+                    <Link key={l.id} href={`/launches/${l.slug}/`}>
+                      <span>{l.company ?? l.product ?? l.posted_by}</span>
                       <span>{fmtDuration(l.duration_seconds)} · {fmtCompact(v)}</span>
                     </Link>
                   ))}

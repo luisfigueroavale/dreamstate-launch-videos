@@ -1,0 +1,33 @@
+{
+  "id": "x-2004439613725905280",
+  "company": "CodeLamp",
+  "product": null,
+  "title": "CodeLamp launches an AI coding assistant for VS Code",
+  "posted_by": "@erarbazansari",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/erarbazansari/status/2004439613725905280",
+  "post_date": "2025-12-26",
+  "duration_seconds": 212,
+  "excerpt": "Just launched my VS Code extension",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 1529,
+      "likes": 14,
+      "reposts": 1,
+      "replies": 4,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 1,529 views and 14 likes on the gallery listing, a like rate of 0.92 percent, above the library median of 0.56 percent. At 212 seconds it is a keynote length cut, longer than any timed structure here."
+}

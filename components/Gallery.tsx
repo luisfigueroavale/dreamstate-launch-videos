@@ -4,12 +4,13 @@ import type { Card, Category, HookFamily } from "@/lib/data";
 import { VIEW_BANDS } from "@/lib/format";
 import LaunchCard from "./LaunchCard";
 
-type Sort = "views" | "likes" | "likeRate" | "date";
+type Sort = "views" | "likes" | "likeRate" | "date" | "company";
 const SORTS: { id: Sort; label: string }[] = [
   { id: "views", label: "Most views" },
   { id: "likes", label: "Most likes" },
   { id: "likeRate", label: "Highest like rate" },
   { id: "date", label: "Newest" },
+  { id: "company", label: "Company A to Z" },
 ];
 const KINDS = ["launch", "raise", "feature", "demo"] as const;
 
@@ -40,14 +41,16 @@ export default function Gallery({ cards, hooks, categories }: { cards: Card[]; h
           if (c.views !== null) return false;
         } else if (c.views === null || c.views < b.min || c.views >= b.max) return false;
       }
-      if (needle && !`${c.company} ${c.title} ${c.excerpt ?? ""}`.toLowerCase().includes(needle)) return false;
+      if (needle && !`${c.company ?? ""} ${c.product ?? ""} ${c.postedBy} ${c.title} ${c.excerpt ?? ""}`.toLowerCase().includes(needle)) return false;
       return true;
     });
     // Nulls always sort last. A missing number is not zero.
+    if (sort === "company")
+      return list.sort((a, z) => (a.company ?? "~").localeCompare(z.company ?? "~", "en", { sensitivity: "base" }));
     const key = (c: Card): number | null => (sort === "date" ? (c.date ? Date.parse(c.date) : null) : c[sort]);
     return list.sort((a, z) => {
       const x = key(a), y = key(z);
-      if (x === null && y === null) return a.company.localeCompare(z.company);
+      if (x === null && y === null) return (a.company ?? "~").localeCompare(z.company ?? "~");
       if (x === null) return 1;
       if (y === null) return -1;
       return y - x;
@@ -64,7 +67,7 @@ export default function Gallery({ cards, hooks, categories }: { cards: Card[]; h
         <div className="filters">
           <div className="field">
             <label htmlFor="q">Search</label>
-            <input id="q" placeholder="Company, title, or words from the post" value={q} onChange={(e) => setQ(e.target.value)} />
+            <input id="q" placeholder="Company, product, handle, or words from the post" value={q} onChange={(e) => setQ(e.target.value)} />
           </div>
           <div className="field">
             <label htmlFor="cat">Category</label>

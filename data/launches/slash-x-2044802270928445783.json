@@ -1,0 +1,158 @@
+{
+  "id": "x-2044802270928445783",
+  "company": "Slash",
+  "product": null,
+  "title": "Slash raise",
+  "posted_by": "@victorcardenas",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "raise",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/victorcardenas/status/2044802270928445783",
+  "post_date": "2026-04-16",
+  "duration_seconds": 136.5,
+  "excerpt": "We (@slashapp) raised a $100M Series C at $1.4 billion valuation to build the world's most powerful business",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 13.43
+    },
+    {
+      "start": 13.43,
+      "end": 16.43
+    },
+    {
+      "start": 16.43,
+      "end": 22.7
+    },
+    {
+      "start": 22.7,
+      "end": 34.3
+    },
+    {
+      "start": 34.3,
+      "end": 39.0
+    },
+    {
+      "start": 39.0,
+      "end": 41.8
+    },
+    {
+      "start": 41.8,
+      "end": 43.43
+    },
+    {
+      "start": 43.43,
+      "end": 48.83
+    },
+    {
+      "start": 48.83,
+      "end": 52.23
+    },
+    {
+      "start": 52.23,
+      "end": 58.07
+    },
+    {
+      "start": 58.07,
+      "end": 63.43
+    },
+    {
+      "start": 63.43,
+      "end": 65.47
+    },
+    {
+      "start": 65.47,
+      "end": 65.5
+    },
+    {
+      "start": 65.5,
+      "end": 66.17
+    },
+    {
+      "start": 66.17,
+      "end": 70.0
+    },
+    {
+      "start": 70.0,
+      "end": 75.2
+    },
+    {
+      "start": 75.2,
+      "end": 75.3
+    },
+    {
+      "start": 75.3,
+      "end": 75.93
+    },
+    {
+      "start": 75.93,
+      "end": 84.33
+    },
+    {
+      "start": 84.33,
+      "end": 84.37
+    },
+    {
+      "start": 84.37,
+      "end": 86.6
+    },
+    {
+      "start": 86.6,
+      "end": 86.63
+    },
+    {
+      "start": 86.63,
+      "end": 91.37
+    },
+    {
+      "start": 91.37,
+      "end": 96.77
+    },
+    {
+      "start": 96.77,
+      "end": 105.83
+    },
+    {
+      "start": 105.83,
+      "end": 106.0
+    },
+    {
+      "start": 106.0,
+      "end": 107.2
+    },
+    {
+      "start": 107.2,
+      "end": 111.37
+    },
+    {
+      "start": 111.37,
+      "end": 118.1
+    },
+    {
+      "start": 118.1,
+      "end": 120.4
+    },
+    {
+      "start": 120.4,
+      "end": 136.46
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 1986567,
+      "likes": 2704,
+      "reposts": 214,
+      "replies": 667,
+      "bookmarks": 1131
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 1,986,567 views and 2,704 likes on the post itself, a like rate of 0.14 percent, below the library median of 0.56 percent. At 136 seconds it compares best with the 120 second structure. Scene detection found 31 shots, about 4.4 seconds each, with the first cut at 13.4 seconds. Funding is the news here. Funding is not proof the product works, so check what the video actually shows."
+}

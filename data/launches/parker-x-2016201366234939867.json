@@ -1,0 +1,82 @@
+{
+  "id": "x-2016201366234939867",
+  "company": "Parker",
+  "product": null,
+  "title": "Parker launch",
+  "posted_by": "@alexgoughcooper",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/alexgoughcooper/status/2016201366234939867",
+  "post_date": "2026-01-27",
+  "duration_seconds": 101.1,
+  "excerpt": "Introducing Parker: The world's first AI Creative Director. 100+ brands like Grüns, Lume and Legends use us already.",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 5.4
+    },
+    {
+      "start": 5.4,
+      "end": 7.03
+    },
+    {
+      "start": 7.03,
+      "end": 7.17
+    },
+    {
+      "start": 7.17,
+      "end": 7.9
+    },
+    {
+      "start": 7.9,
+      "end": 15.8
+    },
+    {
+      "start": 15.8,
+      "end": 17.3
+    },
+    {
+      "start": 17.3,
+      "end": 26.7
+    },
+    {
+      "start": 26.7,
+      "end": 47.7
+    },
+    {
+      "start": 47.7,
+      "end": 55.93
+    },
+    {
+      "start": 55.93,
+      "end": 78.13
+    },
+    {
+      "start": 78.13,
+      "end": 87.6
+    },
+    {
+      "start": 87.6,
+      "end": 101.05
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 1662627,
+      "likes": 3296,
+      "reposts": 1065,
+      "replies": 1909,
+      "bookmarks": 4444
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 1,662,627 views and 3,296 likes on the post itself, a like rate of 0.20 percent, below the library median of 0.56 percent. At 101 seconds it compares best with the 90 second structure. Scene detection found 12 shots, about 8.4 seconds each, with the first cut at 5.4 seconds."
+}

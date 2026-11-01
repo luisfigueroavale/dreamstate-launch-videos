@@ -1,0 +1,33 @@
+{
+  "id": "x-2063274796469850359",
+  "company": "Snappy",
+  "product": null,
+  "title": "Snappy v2 launches with realtime voice control",
+  "posted_by": "@codewithrobu",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/codewithrobu/status/2063274796469850359",
+  "post_date": "2026-06-06",
+  "duration_seconds": 65,
+  "excerpt": "Windows users, i got your back Launching Snappy v2 with Snappy Realtime (demo below) also now Snappy can:",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 708,
+      "likes": 16,
+      "reposts": 3,
+      "replies": 3,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 708 views and 16 likes on the gallery listing, a like rate of 2.26 percent, above the library median of 0.56 percent. At 65 seconds it compares best with the 60 second structure."
+}

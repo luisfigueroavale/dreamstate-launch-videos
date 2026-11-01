@@ -1,0 +1,33 @@
+{
+  "id": "x-2063391301261758553",
+  "company": "Zerocam",
+  "product": null,
+  "title": "Zerocam launch",
+  "posted_by": "@novikoff",
+  "owner": "third-party",
+  "category": "other",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/novikoff/status/2063391301261758553",
+  "post_date": "2026-06-06",
+  "duration_seconds": 66,
+  "excerpt": "First ever short video from our cinema camera app. Weather in London today is indeed cold, gloomy and",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 3012,
+      "likes": 36,
+      "reposts": 1,
+      "replies": 2,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 3,012 views and 36 likes on the gallery listing, a like rate of 1.20 percent, above the library median of 0.56 percent. At 66 seconds it compares best with the 60 second structure."
+}

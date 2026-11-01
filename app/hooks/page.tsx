@@ -43,8 +43,8 @@ export default function HooksPage() {
               </p>
               <div className="mini-list">
                 {rows.slice(0, 5).map(({ l, s }) => (
-                  <Link key={l.id} href={`/v/${l.id}/`}>
-                    <span>{l.company}</span>
+                  <Link key={l.id} href={`/launches/${l.slug}/`}>
+                    <span>{l.company ?? l.product ?? l.posted_by}</span>
                     <span>{fmtCompact(s!.views)} views</span>
                   </Link>
                 ))}

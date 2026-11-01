@@ -1,0 +1,33 @@
+{
+  "id": "x-2019247060109734005",
+  "company": "JanexAI",
+  "product": null,
+  "title": "JanexAI launch",
+  "posted_by": "@MirasZharas",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/MirasZharas/status/2019247060109734005",
+  "post_date": "2026-02-05",
+  "duration_seconds": 48,
+  "excerpt": "Day 3 of building an AI-reliability startup as a solo 16 year-old: After 2 nights of coding and",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 123,
+      "likes": 6,
+      "reposts": 0,
+      "replies": 1,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 123 views and 6 likes on the gallery listing, a like rate of 4.88 percent, above the library median of 0.56 percent. At 48 seconds it compares best with the 60 second structure."
+}

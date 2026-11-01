@@ -1,0 +1,33 @@
+{
+  "id": "x-2052827442503631171",
+  "company": "Conductor",
+  "product": null,
+  "title": "Conductor launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "founder-stories",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2052827442503631171",
+  "post_date": "2026-05-08",
+  "duration_seconds": 1763,
+  "excerpt": "Conductor (@conductor_build) is a Mac app that lets you run multiple coding agents at the same time. Create",
+  "hook_family": "authority-mission",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 78510,
+      "likes": 439,
+      "reposts": 25,
+      "replies": 23,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an authority and mission line. That label comes from the post text, not from watching the video. Reported 78,510 views and 439 likes on the gallery listing, a like rate of 0.56 percent, close to the library median of 0.56 percent. At 1763 seconds it is a keynote length cut, longer than any timed structure here."
+}

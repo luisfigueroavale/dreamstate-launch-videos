@@ -1,0 +1,33 @@
+{
+  "id": "x-2054018731479589362",
+  "company": "Mochatrade",
+  "product": null,
+  "title": "Mochatrade launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "fintech",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2054018731479589362",
+  "post_date": "2026-05-12",
+  "duration_seconds": 60,
+  "excerpt": "Mochatrade (@mochatradeapp) is a perpetual futures trading platform that gives Indian traders access to 50+ US stocks (Tesla,",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 325044,
+      "likes": 565,
+      "reposts": 43,
+      "replies": 94,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 325,044 views and 565 likes on the gallery listing, a like rate of 0.17 percent, below the library median of 0.56 percent. At 60 seconds it compares best with the 60 second structure."
+}

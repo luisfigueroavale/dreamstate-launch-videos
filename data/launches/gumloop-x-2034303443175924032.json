@@ -1,0 +1,33 @@
+{
+  "id": "x-2034303443175924032",
+  "company": "Gumloop",
+  "product": null,
+  "title": "Gumloop launch",
+  "posted_by": "@gumloop",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/gumloop/status/2034303443175924032",
+  "post_date": "2026-03-18",
+  "duration_seconds": 103,
+  "excerpt": "Introducing our second product, Gumstack - a single pane of glass for AI agent data visibility and access",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 28861,
+      "likes": 96,
+      "reposts": 6,
+      "replies": 13,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 28,861 views and 96 likes on the gallery listing, a like rate of 0.33 percent, below the library median of 0.56 percent. At 103 seconds it compares best with the 90 second structure."
+}

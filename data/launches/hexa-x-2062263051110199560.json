@@ -1,0 +1,33 @@
+{
+  "id": "x-2062263051110199560",
+  "company": "Hexa",
+  "product": null,
+  "title": "Hexa Industrial distribution",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062263051110199560",
+  "post_date": "2026-06-03",
+  "duration_seconds": 64,
+  "excerpt": "50% of orders go to whoever quotes first. Hexa automates industrial distributors' sales/procurement workflows so they quote faster",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 23642,
+      "likes": 142,
+      "reposts": 12,
+      "replies": 16,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 23,642 views and 142 likes on the gallery listing, a like rate of 0.60 percent, close to the library median of 0.56 percent. At 64 seconds it compares best with the 60 second structure."
+}

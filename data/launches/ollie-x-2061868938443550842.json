@@ -1,0 +1,128 @@
+{
+  "id": "x-2061868938443550842",
+  "company": "Ollie",
+  "product": null,
+  "title": "Ollie launch",
+  "posted_by": "@blennon_",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/blennon_/status/2061868938443550842",
+  "post_date": "2026-06-02",
+  "duration_seconds": 110.1,
+  "excerpt": "AI can now make you a great parent. Introducing Ollie: the world’s first AI family assistant that manages",
+  "hook_family": "comparison",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "start": 0.1,
+      "end": 4.53
+    },
+    {
+      "start": 4.53,
+      "end": 4.63
+    },
+    {
+      "start": 4.63,
+      "end": 4.77
+    },
+    {
+      "start": 4.77,
+      "end": 4.93
+    },
+    {
+      "start": 4.93,
+      "end": 6.9
+    },
+    {
+      "start": 6.9,
+      "end": 7.2
+    },
+    {
+      "start": 7.2,
+      "end": 7.33
+    },
+    {
+      "start": 7.33,
+      "end": 7.93
+    },
+    {
+      "start": 7.93,
+      "end": 33.23
+    },
+    {
+      "start": 33.23,
+      "end": 54.9
+    },
+    {
+      "start": 54.9,
+      "end": 62.67
+    },
+    {
+      "start": 62.67,
+      "end": 64.67
+    },
+    {
+      "start": 64.67,
+      "end": 91.1
+    },
+    {
+      "start": 91.1,
+      "end": 97.77
+    },
+    {
+      "start": 97.77,
+      "end": 98.3
+    },
+    {
+      "start": 98.3,
+      "end": 98.4
+    },
+    {
+      "start": 98.4,
+      "end": 99.77
+    },
+    {
+      "start": 99.77,
+      "end": 101.23
+    },
+    {
+      "start": 101.23,
+      "end": 106.8
+    },
+    {
+      "start": 106.8,
+      "end": 110.14
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2055279,
+      "likes": 2093,
+      "reposts": 203,
+      "replies": 594,
+      "bookmarks": 2428
+    },
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 2000000,
+      "likes": 2118,
+      "reposts": 214,
+      "replies": 602,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a comparison line. That label comes from the post text, not from watching the video. Reported 2,055,279 views and 2,093 likes on the post itself, a like rate of 0.10 percent, below the library median of 0.56 percent. At 110 seconds it compares best with the 120 second structure. Scene detection found 21 shots, about 5.2 seconds each, with the first cut at 0.1 seconds."
+}

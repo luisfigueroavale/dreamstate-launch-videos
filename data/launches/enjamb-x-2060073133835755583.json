@@ -1,0 +1,33 @@
+{
+  "id": "x-2060073133835755583",
+  "company": "Enjamb",
+  "product": null,
+  "title": "Enjamb Biotech / drug development",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2060073133835755583",
+  "post_date": "2026-05-28",
+  "duration_seconds": 115,
+  "excerpt": "Enjamb (@tryenjamb) puts AI agents across the entire drug program, from evidence synthesis to regulatory docs to statistical",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 43783,
+      "likes": 255,
+      "reposts": 19,
+      "replies": 52,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 43,783 views and 255 likes on the gallery listing, a like rate of 0.58 percent, close to the library median of 0.56 percent. At 115 seconds it compares best with the 120 second structure."
+}

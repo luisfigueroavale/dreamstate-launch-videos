@@ -1,0 +1,33 @@
+{
+  "id": "x-2062761896525373611",
+  "company": "Rox",
+  "product": "Rox Desktop",
+  "title": "Rox Desktop feature launch",
+  "posted_by": "@rox_ai",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/rox_ai/status/2062761896525373611",
+  "post_date": "2026-06-05",
+  "duration_seconds": 101,
+  "excerpt": "Most agents run in the browser. Rox can now live locally on your desktop. You now receive: 1.",
+  "hook_family": "specific-grievance",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 868,
+      "likes": 16,
+      "reposts": 1,
+      "replies": 2,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a specific grievance line. That label comes from the post text, not from watching the video. Reported 868 views and 16 likes on the gallery listing, a like rate of 1.84 percent, above the library median of 0.56 percent. At 101 seconds it compares best with the 90 second structure."
+}

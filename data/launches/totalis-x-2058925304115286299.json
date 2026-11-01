@@ -1,0 +1,33 @@
+{
+  "id": "x-2058925304115286299",
+  "company": "Totalis",
+  "product": null,
+  "title": "Totalis launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "fintech",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2058925304115286299",
+  "post_date": "2026-05-25",
+  "duration_seconds": 60,
+  "excerpt": "Totalis (@totalistrading) lets users parlay on anything. Combine multiple event markets into one trade across politics, crypto, stocks,",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 479039,
+      "likes": 803,
+      "reposts": 66,
+      "replies": 135,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 479,039 views and 803 likes on the gallery listing, a like rate of 0.17 percent, below the library median of 0.56 percent. At 60 seconds it compares best with the 60 second structure."
+}

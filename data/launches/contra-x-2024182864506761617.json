@@ -1,0 +1,174 @@
+{
+  "id": "x-2024182864506761617",
+  "company": "Contra",
+  "product": null,
+  "title": "Contra launch",
+  "posted_by": "@contraben",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/contraben/status/2024182864506761617",
+  "post_date": "2026-02-18",
+  "duration_seconds": 96.0,
+  "excerpt": "Introducing Contra Payments. The first payments platform that lets you sell to AI Agents. RT + Comment “Contra”",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "start": 0.1,
+      "end": 1.13
+    },
+    {
+      "start": 1.13,
+      "end": 1.67
+    },
+    {
+      "start": 1.67,
+      "end": 9.7
+    },
+    {
+      "start": 9.7,
+      "end": 9.9
+    },
+    {
+      "start": 9.9,
+      "end": 10.07
+    },
+    {
+      "start": 10.07,
+      "end": 10.43
+    },
+    {
+      "start": 10.43,
+      "end": 10.8
+    },
+    {
+      "start": 10.8,
+      "end": 10.97
+    },
+    {
+      "start": 10.97,
+      "end": 11.87
+    },
+    {
+      "start": 11.87,
+      "end": 12.17
+    },
+    {
+      "start": 12.17,
+      "end": 12.97
+    },
+    {
+      "start": 12.97,
+      "end": 14.4
+    },
+    {
+      "start": 14.4,
+      "end": 18.4
+    },
+    {
+      "start": 18.4,
+      "end": 19.33
+    },
+    {
+      "start": 19.33,
+      "end": 20.87
+    },
+    {
+      "start": 20.87,
+      "end": 22.97
+    },
+    {
+      "start": 22.97,
+      "end": 23.03
+    },
+    {
+      "start": 23.03,
+      "end": 30.27
+    },
+    {
+      "start": 30.27,
+      "end": 33.57
+    },
+    {
+      "start": 33.57,
+      "end": 36.6
+    },
+    {
+      "start": 36.6,
+      "end": 38.87
+    },
+    {
+      "start": 38.87,
+      "end": 64.33
+    },
+    {
+      "start": 64.33,
+      "end": 64.8
+    },
+    {
+      "start": 64.8,
+      "end": 69.3
+    },
+    {
+      "start": 69.3,
+      "end": 69.5
+    },
+    {
+      "start": 69.5,
+      "end": 69.63
+    },
+    {
+      "start": 69.63,
+      "end": 69.83
+    },
+    {
+      "start": 69.83,
+      "end": 71.03
+    },
+    {
+      "start": 71.03,
+      "end": 72.3
+    },
+    {
+      "start": 72.3,
+      "end": 85.97
+    },
+    {
+      "start": 85.97,
+      "end": 88.57
+    },
+    {
+      "start": 88.57,
+      "end": 94.33
+    },
+    {
+      "start": 94.33,
+      "end": 94.4
+    },
+    {
+      "start": 94.4,
+      "end": 96.01
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 2287643,
+      "likes": 5050,
+      "reposts": 1677,
+      "replies": 2810,
+      "bookmarks": 4870
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 2,287,643 views and 5,050 likes on the post itself, a like rate of 0.22 percent, below the library median of 0.56 percent. At 96 seconds it compares best with the 90 second structure. Scene detection found 35 shots, about 2.7 seconds each, with the first cut at 0.1 seconds."
+}

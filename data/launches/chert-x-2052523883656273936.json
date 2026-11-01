@@ -1,0 +1,33 @@
+{
+  "id": "x-2052523883656273936",
+  "company": "Chert",
+  "product": null,
+  "title": "Chert launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2052523883656273936",
+  "post_date": "2026-05-07",
+  "duration_seconds": 62,
+  "excerpt": "Chert (@Cherthq) is building the infrastructure for teams to send, receive, and automate conversations over iMessage using APIs.",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 35764,
+      "likes": 221,
+      "reposts": 20,
+      "replies": 36,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 35,764 views and 221 likes on the gallery listing, a like rate of 0.62 percent, close to the library median of 0.56 percent. At 62 seconds it compares best with the 60 second structure."
+}

@@ -1,6 +1,6 @@
 ---
 name: add-launch-record
-description: "Add one launch video to the library, or refresh its counts, from a public X post link. Writes data/launches/<id>.json and runs the validator. It never invents a number, never copies a transcript, and never commits or pushes without the owner's yes."
+description: "Add one launch video to the library, or refresh its counts, from a public X post link. Writes data/launches/<company-slug>-<id>.json and runs the validator. It never invents a number, never copies a transcript, and never commits or pushes without the owner's yes."
 ---
 # Add a launch record
 
@@ -23,15 +23,17 @@ Follow `docs/skill-frame.md`.
 
 3. Read the post with a read tool the owner has connected. Capture the date, the video length, and the public counts (`references/snapshots.md`).
 
-4. Fill company, title, category, kind, and hook family, and mark each label's basis honestly (`references/fields.md`).
+4. Fill company, product, posted_by, title, category, kind, and hook family, and mark each label's basis honestly. The company is the business that launched, never the poster's personal name. If the post does not name it, use `null` (`references/fields.md`).
 
-5. Quote at most 18 words from the post as the excerpt, cut before any dash (`references/fields.md`).
+5. Save the file as `data/launches/<company-slug>-<id>.json`. The slug is the company in lowercase with runs of other characters turned into one hyphen, or `unknown` when company is `null`.
 
-6. Write the analysis in our own words from what you actually read or watched (`references/analysis.md`).
+6. Quote at most 18 words from the post as the excerpt, cut before any dash (`references/fields.md`).
 
-7. Run `npm run validate` and fix every error. Then run `npm run build`.
+7. Write the analysis in our own words from what you actually read or watched (`references/analysis.md`).
 
-8. Show the owner the new file and stop. Committing, opening a pull request, and pushing each wait for the owner's yes.
+8. Run `npm run validate` and fix every error. Then run `npm run build`.
+
+9. Show the owner the new file and stop. Committing, opening a pull request, and pushing each wait for the owner's yes.
 
 ## Dreamstate tools
 

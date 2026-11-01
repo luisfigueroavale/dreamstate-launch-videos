@@ -1,0 +1,33 @@
+{
+  "id": "x-1968284473155526799",
+  "company": "Arcads",
+  "product": null,
+  "title": "Arcads: Show Your App",
+  "posted_by": "@rom1trs",
+  "owner": "third-party",
+  "category": "ai",
+  "kind": "feature",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/rom1trs/status/1968284473155526799",
+  "post_date": "2025-09-17",
+  "duration_seconds": 47,
+  "excerpt": "introducing \"Show Your app\" Our latest update for app marketers > upload a screenshot of your app >",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 135434,
+      "likes": 1281,
+      "reposts": 77,
+      "replies": 201,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 135,434 views and 1,281 likes on the gallery listing, a like rate of 0.95 percent, above the library median of 0.56 percent. At 47 seconds it compares best with the 60 second structure."
+}

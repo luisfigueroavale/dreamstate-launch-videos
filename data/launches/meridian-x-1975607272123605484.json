@@ -1,0 +1,94 @@
+{
+  "id": "x-1975607272123605484",
+  "company": "Meridian",
+  "product": null,
+  "title": "Meridian launch",
+  "posted_by": "@alexmdees",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/alexmdees/status/1975607272123605484",
+  "post_date": "2025-10-07",
+  "duration_seconds": 98.6,
+  "excerpt": "Introducing Meridian. 50% of searches are now powered by AI (Think ChatGPT and Gemini) Meridian is the FIRST",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.03
+    },
+    {
+      "start": 0.03,
+      "end": 3.2
+    },
+    {
+      "start": 3.2,
+      "end": 4.1
+    },
+    {
+      "start": 4.1,
+      "end": 4.27
+    },
+    {
+      "start": 4.27,
+      "end": 6.6
+    },
+    {
+      "start": 6.6,
+      "end": 11.63
+    },
+    {
+      "start": 11.63,
+      "end": 15.33
+    },
+    {
+      "start": 15.33,
+      "end": 17.43
+    },
+    {
+      "start": 17.43,
+      "end": 60.77
+    },
+    {
+      "start": 60.77,
+      "end": 60.93
+    },
+    {
+      "start": 60.93,
+      "end": 75.43
+    },
+    {
+      "start": 75.43,
+      "end": 81.17
+    },
+    {
+      "start": 81.17,
+      "end": 85.17
+    },
+    {
+      "start": 85.17,
+      "end": 98.53
+    },
+    {
+      "start": 98.53,
+      "end": 98.59
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 5294789,
+      "likes": 3359,
+      "reposts": 696,
+      "replies": 1149,
+      "bookmarks": 3402
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 5,294,789 views and 3,359 likes on the post itself, a like rate of 0.06 percent, below the library median of 0.56 percent. At 99 seconds it compares best with the 90 second structure. Scene detection found 15 shots, about 6.6 seconds each, with the first cut at 0.0 seconds."
+}

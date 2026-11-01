@@ -1,0 +1,130 @@
+{
+  "id": "x-2033957044714410368",
+  "company": "Durable",
+  "product": null,
+  "title": "Durable launch",
+  "posted_by": "@jamesclift",
+  "owner": "third-party",
+  "category": "unlabeled",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/jamesclift/status/2033957044714410368",
+  "post_date": "2026-03-17",
+  "duration_seconds": 107.1,
+  "excerpt": "Introducing Durable. The first AI business builder that replaces your 9-5 income. RT + comment “Durable” and we'll",
+  "hook_family": "unclear",
+  "hook_basis": "not-labeled",
+  "scene_cuts": [
+    {
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "start": 0.1,
+      "end": 1.2
+    },
+    {
+      "start": 1.2,
+      "end": 2.7
+    },
+    {
+      "start": 2.7,
+      "end": 7.13
+    },
+    {
+      "start": 7.13,
+      "end": 7.87
+    },
+    {
+      "start": 7.87,
+      "end": 8.23
+    },
+    {
+      "start": 8.23,
+      "end": 8.43
+    },
+    {
+      "start": 8.43,
+      "end": 8.6
+    },
+    {
+      "start": 8.6,
+      "end": 9.97
+    },
+    {
+      "start": 9.97,
+      "end": 11.9
+    },
+    {
+      "start": 11.9,
+      "end": 11.93
+    },
+    {
+      "start": 11.93,
+      "end": 15.87
+    },
+    {
+      "start": 15.87,
+      "end": 31.0
+    },
+    {
+      "start": 31.0,
+      "end": 44.33
+    },
+    {
+      "start": 44.33,
+      "end": 47.2
+    },
+    {
+      "start": 47.2,
+      "end": 47.23
+    },
+    {
+      "start": 47.23,
+      "end": 58.17
+    },
+    {
+      "start": 58.17,
+      "end": 73.4
+    },
+    {
+      "start": 73.4,
+      "end": 81.5
+    },
+    {
+      "start": 81.5,
+      "end": 88.3
+    },
+    {
+      "start": 88.3,
+      "end": 91.1
+    },
+    {
+      "start": 91.1,
+      "end": 97.9
+    },
+    {
+      "start": 97.9,
+      "end": 105.1
+    },
+    {
+      "start": 105.1,
+      "end": 107.07
+    }
+  ],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "individual-post",
+      "source": "x-public-counts",
+      "views": 3600617,
+      "likes": 5408,
+      "reposts": 1153,
+      "replies": 1796,
+      "bookmarks": 9564
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The hook is not labeled yet. Watch the first five seconds before using this as a pattern. Reported 3,600,617 views and 5,408 likes on the post itself, a like rate of 0.15 percent, below the library median of 0.56 percent. At 107 seconds it compares best with the 120 second structure. Scene detection found 24 shots, about 4.5 seconds each, with the first cut at 0.1 seconds."
+}

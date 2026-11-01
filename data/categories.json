@@ -3,7 +3,7 @@
     {
       "id": "ai",
       "name": "AI",
-      "count": 58
+      "count": 59
     },
     {
       "id": "developer-tools",
@@ -22,8 +22,8 @@
     },
     {
       "id": "unlabeled",
-      "name": "Not labeled",
-      "count": 17
+      "name": "Not categorized",
+      "count": 16
     },
     {
       "id": "consumer",

@@ -1,0 +1,33 @@
+{
+  "id": "x-2056404444107915711",
+  "company": "Deep Interactions",
+  "product": null,
+  "title": "Deep Interactions launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2056404444107915711",
+  "post_date": "2026-05-18",
+  "duration_seconds": 76,
+  "excerpt": "95% of AI pilots fail. Not because the models are bad. Because teams can't build in sync. Deep",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 110711,
+      "likes": 654,
+      "reposts": 56,
+      "replies": 77,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 110,711 views and 654 likes on the gallery listing, a like rate of 0.59 percent, close to the library median of 0.56 percent. At 76 seconds it compares best with the 90 second structure."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x-2062085628834275728",
+  "company": "VIRO Learning",
+  "product": null,
+  "title": "Virtual Routes launches VIRO Learning platform",
+  "posted_by": "@VirtualRoutes",
+  "owner": "third-party",
+  "category": "education-events",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/VirtualRoutes/status/2062085628834275728",
+  "post_date": "2026-06-03",
+  "duration_seconds": 88,
+  "excerpt": "Virtual Routes is launching VIRO Learning. VIRO Learning is a new platform offering applied education on cybersecurity and",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 371,
+      "likes": 4,
+      "reposts": 3,
+      "replies": 0,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 371 views and 4 likes on the gallery listing, a like rate of 1.08 percent, above the library median of 0.56 percent. At 88 seconds it compares best with the 90 second structure."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x-2063035137953038584",
+  "company": "10x.app",
+  "product": null,
+  "title": "10x.app launch",
+  "posted_by": "@EvanYadegari",
+  "owner": "third-party",
+  "category": "developer-tools",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/EvanYadegari/status/2063035137953038584",
+  "post_date": "2026-06-02",
+  "duration_seconds": 37,
+  "excerpt": "Introducing Clone by You can now clone any website or app in minutes",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 19110,
+      "likes": 170,
+      "reposts": 9,
+      "replies": 24,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 19,110 views and 170 likes on the gallery listing, a like rate of 0.89 percent, above the library median of 0.56 percent. At 37 seconds it compares best with the 30 second structure."
+}

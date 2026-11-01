@@ -14,8 +14,12 @@ export type Snapshot = {
 
 export type Launch = {
   id: string;
-  company: string;
+  /** File name without .json, also the page path: <company-slug>-<id>. */
+  slug: string;
+  company: string | null;
+  product: string | null;
   title: string;
+  posted_by: string;
   owner: "third-party" | "dreamstate";
   category: string;
   kind: "launch" | "raise" | "feature" | "demo";
@@ -48,7 +52,10 @@ export type Structure = {
 /** The slim shape the gallery ships to the browser. like_rate is computed, never stored. */
 export type Card = {
   id: string;
-  company: string;
+  slug: string;
+  company: string | null;
+  product: string | null;
+  postedBy: string;
   title: string;
   category: string;
   kind: Launch["kind"];
@@ -71,11 +78,12 @@ export function getLaunches(): Launch[] {
   if (!cache) {
     cache = readdirSync(join(dataDir, "launches"))
       .filter((f) => f.endsWith(".json"))
-      .map((f) => readJson<Launch>(join("launches", f)));
+      .map((f) => ({ ...readJson<Launch>(join("launches", f)), slug: f.replace(/\.json$/, "") }));
   }
   return cache;
 }
-export const getLaunch = (id: string) => getLaunches().find((l) => l.id === id);
+export const getLaunch = (slug: string) => getLaunches().find((l) => l.slug === slug);
+export const companyLabel = (l: { company: string | null }) => l.company ?? "Company not named";
 export const getHooks = () => readJson<{ basis: string; families: HookFamily[] }>("hooks.json");
 export const getCategories = () => readJson<{ categories: Category[] }>("categories.json").categories;
 export const getStructures = () => readJson<{ note: string; structures: Structure[] }>("structures.json");
@@ -94,7 +102,10 @@ export function toCard(l: Launch): Card {
   const s = primarySnapshot(l);
   return {
     id: l.id,
+    slug: l.slug,
     company: l.company,
+    product: l.product,
+    postedBy: l.posted_by,
     title: l.title,
     category: l.category,
     kind: l.kind,

@@ -32,6 +32,7 @@ const DASHES = [
 ];
 
 // 1. Schema and record rules.
+const companySlug = (c) => (c ?? "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "") || "unknown";
 const schema = JSON.parse(readFileSync(join(root, "data/schema.json"), "utf8"));
 const ajv = new Ajv({ allErrors: true, strict: false });
 const check = ajv.compile(schema);
@@ -51,7 +52,9 @@ for (const name of readdirSync(dir).filter((f) => f.endsWith(".json")).sort()) {
   }
   count++;
   if (!check(rec)) for (const e of check.errors) fail(file, `${e.instancePath || "/"} ${e.message}`);
-  if (`${rec.id}.json` !== name) fail(file, "file name must equal id + .json");
+  const expected = `${companySlug(rec.company)}-${rec.id}.json`;
+  if (name !== expected) fail(file, `file name must be ${expected}`);
+  if (rec.post_url && rec.posted_by !== `@${rec.post_url.split("/")[3]}`) fail(file, "posted_by must match the handle in post_url");
   if (ids.has(rec.id)) fail(file, "duplicate id");
   ids.add(rec.id);
   if (rec.excerpt && rec.excerpt.trim().split(/\s+/).length > 18) fail(file, "excerpt is longer than 18 words");

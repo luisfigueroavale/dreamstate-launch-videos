@@ -1,0 +1,33 @@
+{
+  "id": "x-2057144326489063935",
+  "company": "qomplementai",
+  "product": null,
+  "title": "qomplementai launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2057144326489063935",
+  "post_date": "2026-05-20",
+  "duration_seconds": 63,
+  "excerpt": ".@qomplementai automates manual data-entry work. AI agents that process invoices, POs, and reconcile AP. Finance typing invoices into",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 18133,
+      "likes": 77,
+      "reposts": 17,
+      "replies": 10,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 18,133 views and 77 likes on the gallery listing, a like rate of 0.42 percent, below the library median of 0.56 percent. At 63 seconds it compares best with the 60 second structure."
+}

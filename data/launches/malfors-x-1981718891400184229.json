@@ -1,0 +1,33 @@
+{
+  "id": "x-1981718891400184229",
+  "company": "Malfors",
+  "product": null,
+  "title": "Malfors launch",
+  "posted_by": "@MalforsHQ",
+  "owner": "third-party",
+  "category": "security",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/MalforsHQ/status/1981718891400184229",
+  "post_date": "2025-10-24",
+  "duration_seconds": 39,
+  "excerpt": "Today, we're launching Malfors. A collaborative, graph-based investigation platform, made for analysts. - Excellent UX✨ - Built-in enrichments",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 32190,
+      "likes": 99,
+      "reposts": 11,
+      "replies": 7,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 32,190 views and 99 likes on the gallery listing, a like rate of 0.31 percent, below the library median of 0.56 percent. At 39 seconds it compares best with the 30 second structure."
+}

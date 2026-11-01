@@ -1,0 +1,33 @@
+{
+  "id": "x-2056736633966465080",
+  "company": "General Instinct",
+  "product": null,
+  "title": "General Instinct launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "ai-infrastructure",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2056736633966465080",
+  "post_date": "2026-05-19",
+  "duration_seconds": 89,
+  "excerpt": "General Instinct (@gen_instinct) deploys frontier AI models onto constrained edge hardware, helping robotics and physical AI teams run",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 43188,
+      "likes": 189,
+      "reposts": 38,
+      "replies": 32,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 43,188 views and 189 likes on the gallery listing, a like rate of 0.44 percent, below the library median of 0.56 percent. At 89 seconds it compares best with the 90 second structure."
+}

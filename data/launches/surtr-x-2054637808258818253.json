@@ -1,0 +1,33 @@
+{
+  "id": "x-2054637808258818253",
+  "company": "Surtr",
+  "product": null,
+  "title": "Surtr launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "defense",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2054637808258818253",
+  "post_date": "2026-05-13",
+  "duration_seconds": 95,
+  "excerpt": "Surtr (@surtrdefense) is building ParallaxOS, the open operating system for drone defense. Any sensor, one unified threat picture,",
+  "hook_family": "product-reveal",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 13474,
+      "likes": 72,
+      "reposts": 5,
+      "replies": 5,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a product reveal line. That label comes from the post text, not from watching the video. Reported 13,474 views and 72 likes on the gallery listing, a like rate of 0.53 percent, close to the library median of 0.56 percent. At 95 seconds it compares best with the 90 second structure."
+}

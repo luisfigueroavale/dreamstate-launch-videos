@@ -1,0 +1,33 @@
+{
+  "id": "x-2057159424251232493",
+  "company": "Pops",
+  "product": null,
+  "title": "Pops launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "consumer",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2057159424251232493",
+  "post_date": "2026-05-20",
+  "duration_seconds": 62,
+  "excerpt": "Pops (@pops_fyi) lets anyone create and play AI games. Describe your idea, and Pops turns it into a",
+  "hook_family": "removed-constraint",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 118299,
+      "likes": 268,
+      "reposts": 29,
+      "replies": 45,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a removed constraint line. That label comes from the post text, not from watching the video. Reported 118,299 views and 268 likes on the gallery listing, a like rate of 0.23 percent, below the library median of 0.56 percent. At 62 seconds it compares best with the 60 second structure."
+}

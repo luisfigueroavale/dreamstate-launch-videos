@@ -1,0 +1,33 @@
+{
+  "id": "x-2056751739986993424",
+  "company": "Andustry",
+  "product": null,
+  "title": "Andustry launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2056751739986993424",
+  "post_date": "2026-05-19",
+  "duration_seconds": 62,
+  "excerpt": "Andustry (@andustry_hq) is an AI-native broker that helps manufacturers find suppliers for industrial goods. Hardware sourcing takes months,",
+  "hook_family": "measurable-stakes",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 18581,
+      "likes": 151,
+      "reposts": 21,
+      "replies": 24,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with a measurable stakes line. That label comes from the post text, not from watching the video. Reported 18,581 views and 151 likes on the gallery listing, a like rate of 0.81 percent, above the library median of 0.56 percent. At 62 seconds it compares best with the 60 second structure."
+}

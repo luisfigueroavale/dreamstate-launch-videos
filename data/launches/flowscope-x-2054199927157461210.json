@@ -1,0 +1,33 @@
+{
+  "id": "x-2054199927157461210",
+  "company": "flowscope",
+  "product": null,
+  "title": "flowscope launch",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2054199927157461210",
+  "post_date": "2026-05-12",
+  "duration_seconds": 64,
+  "excerpt": "flowscope deploys agents that learn and document how businesses operate. From there, their agents redesign and automate those",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 27735,
+      "likes": 260,
+      "reposts": 20,
+      "replies": 41,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 27,735 views and 260 likes on the gallery listing, a like rate of 0.94 percent, above the library median of 0.56 percent. At 64 seconds it compares best with the 60 second structure."
+}

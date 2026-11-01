@@ -1,0 +1,33 @@
+{
+  "id": "x-2062927426062086468",
+  "company": "Walter",
+  "product": null,
+  "title": "Walter Manufacturing back office",
+  "posted_by": "@ycombinator",
+  "owner": "third-party",
+  "category": "b2b-saas",
+  "kind": "launch",
+  "kind_basis": "inferred-from-post",
+  "post_url": "https://x.com/ycombinator/status/2062927426062086468",
+  "post_date": "2026-06-05",
+  "duration_seconds": 93,
+  "excerpt": "Walter (@walterindustry) is an AI employee for the manufacturing back office. Logs into legacy ERP systems and takes",
+  "hook_family": "input-output",
+  "hook_basis": "inferred-from-post",
+  "scene_cuts": [],
+  "snapshots": [
+    {
+      "retrieved_on": "2026-10-27",
+      "scope": "listing-snapshot",
+      "source": "public-gallery-listing",
+      "views": 28950,
+      "likes": 229,
+      "reposts": 34,
+      "replies": 30,
+      "bookmarks": null
+    }
+  ],
+  "transcript_status": "none",
+  "rights": "link-and-excerpt-only",
+  "analysis": "The post opens with an input to output line. That label comes from the post text, not from watching the video. Reported 28,950 views and 229 likes on the gallery listing, a like rate of 0.79 percent, above the library median of 0.56 percent. At 93 seconds it compares best with the 90 second structure."
+}
