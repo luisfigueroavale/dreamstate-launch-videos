@@ -4,7 +4,7 @@ See `data/schema.json` for types. Notes on the ones that need judgment:
 
 | Field | Rule |
 |---|---|
-| `id` | `x-` plus the status id. A Dreamstate launch without an X post uses `ds-<slug>`. |
+| `id` | `x-` plus the status id. Every record needs an X post, because `post_url` must be an X status link. |
 | `company` | The company that launched. Use the name the post, the product page, or the official account gives. Never the poster's personal name. `null` when the source does not name one. |
 | `product` | The product or feature, when it differs from the company name. Otherwise `null`. |
 | `posted_by` | The handle from the post link, with `@`. The validator checks it matches `post_url`. |

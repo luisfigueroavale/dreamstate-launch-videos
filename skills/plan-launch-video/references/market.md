@@ -6,7 +6,7 @@
 - Name the argument already live in that audience and the product's honest answer to it.
 - Pick one concrete grievance over a general complaint.
 
-Positioning, internal only:
+Write the result into the brief template under Viewer, Wanted result, Current way, Usual alternative, and Visible difference. Positioning, internal only:
 
 ```text
 For <viewer> who wants <result>, <product> turns <input> into <visible output> through <observable difference>. Unlike <alternative>, it <defensible distinction>.

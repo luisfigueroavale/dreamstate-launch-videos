@@ -7,7 +7,7 @@ Every launch is one file: `data/launches/<company-slug>-<id>.json`. The schema i
 | Part | Rule | Example |
 |---|---|---|
 | `company-slug` | The company in lowercase. Every run of other characters becomes one hyphen. `unknown` when company is `null`. | `nous-research` |
-| `id` | `x-` plus the X status id. A Dreamstate launch without an X post uses `ds-<slug>`. | `x-2063035137953038584` |
+| `id` | `x-` plus the X status id. Every record needs an X post, because `post_url` must be an X status link. | `x-2063035137953038584` |
 
 The page for a record lives at `/launches/<company-slug>-<id>/`.
 

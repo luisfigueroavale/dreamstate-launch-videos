@@ -1,42 +1,62 @@
 ---
 name: study-launch-videos
-description: "Read the dreamstate-launch-videos library and return hook, structure, and proof patterns that match one launch brief. Use from plan-launch-video. If the library is not available, it reports that the library is pending and returns nothing."
+description: "Query the dreamstate-launch-videos library for launches comparable to one brief and return hook, structure, and proof patterns with their reported numbers, scope, and retrieval date. Also drafts a Dreamstate launch record after a post goes live. Use from plan-launch-video. It does not watch, download, rank by cause, or commit."
 ---
 # Study launch videos
 
-Find launch video patterns in the Dreamstate library that fit one brief.
+Find comparable launches in the library for one brief, and keep Dreamstate's own launch records honest.
 Follow `docs/skill-frame.md`.
 
 ## Use when
 
-- `plan-launch-video` asks for patterns that match a viewer, a mechanism, and a proof type.
+- `plan-launch-video` asks for comparable launches by product type, proof type, and length.
+
+- The owner posted a Dreamstate launch video and wants its record drafted for the library.
 
 - Not for copying another company's script, and not for watching or downloading videos.
 
 ## Steps
 
-1. Check that the library is available, and report pending when it is not (`references/library.md`).
+1. Find the library checkout, or read it through GitHub read-only for comparables only, and report pending when it is missing (`references/library.md`).
 
-2. Read the brief's viewer, product type, proof type, and length from the plan (`references/match.md`).
+2. Read the product type, proof type, and length from the brief (`references/match.md`).
 
-3. Search `data/launches/` for entries that match those four fields (`references/match.md`).
+3. Filter `data/launches/*.json` on those fields and keep at most five records (`references/match.md`).
 
-4. Read at most five matching entries and note the hook family, beat timing, and proof unit (`references/notes.md`).
+4. Read each kept record and copy its snapshot numbers with value, scope, and retrieval date (`references/metrics.md`).
 
-5. Return the patterns in our own words, with each entry's link and its evidence label (`references/notes.md`).
+5. Write each pattern in your own words with its hook family and beat timing (`references/notes.md`).
+
+6. Return the comparables block for the proof ledger, or say there are none (`references/notes.md`).
+
+7. Draft a Dreamstate launch record in `data/launches/` only after the owner posted it, and only in a local checkout. Through GitHub alone, stop and ask for one (`references/record.md`).
+
+8. Run the library validator and build, and hand the draft record to the owner (`references/record.md`).
 
 ## Dreamstate tools
 
-None. Local files only.
+| Step | Tool id | Mode | Needs yes? |
+|---|---|---|---|
+| 7 | `visibility.analytics_query` | read | no |
+
+X counts for a Dreamstate record come from the X read tool `get_posts_by_ids`, read-only.
 
 ## Stop rules
 
-- Library missing means say "launch video library pending" and stop. Never fill in from memory.
+- Library missing means say `launch video library pending` and stop. Never fill in from memory.
 
-- Return patterns, never copied script lines or launch post text.
+- A missing number is null and reads as unknown. Never write it as zero.
 
-- Reported views are reported, not verified reach. Say the scope and the date with every number.
+- Never add a per-post number to an agency or campaign total, and never sum across records.
 
-- Never claim a hook caused the views.
+- A hook family is a label. Never say a hook, a length, or a structure caused a result.
 
-- Name no company in a draft meant for posting.
+- A Dreamstate record needs numbers from a tool read. Funding is not a metric and not proof.
+
+- Return patterns, never copied narration or post text.
+
+- A reported number is reported, not verified reach.
+
+- Never name a library company in a draft meant for posting.
+
+- Never refresh analytics, and never commit, push, or open a pull request. A drafted record waits for the owner's yes.

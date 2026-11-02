@@ -20,7 +20,7 @@ Three skills sit next to the data. A skill is a plain markdown procedure an agen
 ## Three things you can do
 
 1. **Browse.** Run `npm install` then `npm run dev`, and open http://localhost:3000. Or use the live site once it is deployed (the link goes in the README).
-2. **Plan your own launch video.** Ask an agent to follow `skills/plan-launch-video`. It reads `skills/study-launch-videos` to pull matching examples from this library.
+2. **Plan your own launch video.** Ask an agent to follow `skills/plan-launch-video` from a local checkout of [`dreamstate-linkedin-funnel`](https://github.com/luisfigueroavale/dreamstate-linkedin-funnel), which holds the `brand/` and `audience/` files it reads. Without that checkout, use `skills/study-launch-videos` here on its own for comparables. It reads `skills/study-launch-videos` to pull matching examples from this library, and returns a brief, proof ledger, scored hooks, a timed script and storyboard, a capture list, launch post and reply bank drafts, and an audit.
 3. **Add a launch.** Follow [adding-a-launch.md](adding-a-launch.md), or ask an agent to follow `skills/add-launch-record` with a public X link.
 
 ## Where to read next

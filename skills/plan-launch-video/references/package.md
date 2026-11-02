@@ -1,12 +1,18 @@
 # Package
 
-Only when the owner asks:
+The spoken lines in the script and storyboard are the final read. This skill owns them. Hand the beat sheet, the spoken lines, and the capture files to `make-launch-clip`. Captions go to `render-captioned-video`, and the file goes to `check-short-export`.
 
-- Launch post: first line matches the video's opening promise, then the product and its plain use, one proof detail, one action.
-- Reply bank: what it does, who it is for, how it differs, price or access if confirmed, limits, and how to try it, each with a real screenshot or output.
-- Follow-up list for days two to seven: a deeper proof, a common objection answered, a real use case. Week two only with real, permitted results.
-- Measurement: the funnel the analytics actually show, with definitions and windows.
+## Launch post and reply bank
 
-All of it is drafts. Posting, scheduling, paying, and outreach each need the owner's yes on that exact item.
+Copy `references/templates/post-and-replies.md`. Every product claim comes from a `verified` ledger line. The action and the destination come from the brief. Price or access comes from the brief only when the owner confirmed it. Measurements come only from a tool read the seat made and passed in: the X read tool `get_posts_by_ids`, or `visibility.analytics_query`. This skill makes no tool calls itself.
 
-Save the plan with brief, ledger, hooks, beats, capture list, and audit to `drafts/launch-video/<date>-<product>.md`. Hand the beats to `write-video-script`, then `make-launch-clip`.
+- Launch post: the first line matches the video's opening promise, then the product and its plain use, one proof detail, and one action.
+- Reply bank: what it does, who it is for, how it differs, price or access only if confirmed, its limits, and how to try it. Each reply points at a real screenshot or output.
+- Follow-ups for days two to seven: a deeper proof, a common objection answered, a real use case. Results in week two only when they are real and permitted.
+- Measurement: the numbers those reads actually returned, each with its scope and retrieval date. Unknown stays unknown.
+
+All of it is a draft. Posting, scheduling, paying, and outreach each need the owner's yes on that exact item.
+
+## Save
+
+Save the brief, ledger, hooks, script and storyboard, capture list, post and replies, and audit to `drafts/launch-video/<date>-<product>.md`. After the owner posts it on X and has the status link, the Launch Video seat may add a library record with `study-launch-videos` rules. A post on another channel only, with no X post, gets no library record, because the schema needs an X `post_url`. That record is a draft until the owner says yes to the commit.
