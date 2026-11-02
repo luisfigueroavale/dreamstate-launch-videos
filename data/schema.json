@@ -30,7 +30,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(x|ds)-[a-z0-9-]+$"
+      "pattern": "^x-[0-9]+$"
     },
     "company": {
       "type": [

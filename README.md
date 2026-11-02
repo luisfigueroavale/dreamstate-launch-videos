@@ -87,7 +87,7 @@ AGENTS.md, CLAUDE.md     rules every coding agent follows here
 
 | Skill | What it does | Ask it like this |
 |---|---|---|
-| [`plan-launch-video`](skills/plan-launch-video/SKILL.md) | Brief, proof ledger, scored hooks, timed beats, capture list, and audit for a launch video. | "Follow skills/plan-launch-video for our launch next week." |
+| [`plan-launch-video`](skills/plan-launch-video/SKILL.md) | Brief, proof ledger, scored hooks, a timed script and storyboard, capture list, launch post and reply bank drafts, and audit for a launch video. | "Follow skills/plan-launch-video for our launch next week." |
 | [`study-launch-videos`](skills/study-launch-videos/SKILL.md) | Finds up to five records that match a brief and returns their patterns in our own words. | "Use skills/study-launch-videos to find 60 second B2B launches with a product reveal hook." |
 | [`add-launch-record`](skills/add-launch-record/SKILL.md) | Adds one launch from a public X link, or a new dated snapshot, then runs the validator. | "Add this launch with skills/add-launch-record: https://x.com/handle/status/123" |
 
