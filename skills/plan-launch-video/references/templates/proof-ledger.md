@@ -22,7 +22,7 @@ Only `verified` lines may be spoken, captioned, or posted.
 | P4 | | | | | | S4 | |
 | P5 | | | | | | S5 | |
 
-<Keep three to five rows in each table, one per aha moment, and delete the rest and this line.>
+<Keep three to five aha rows. Keep one claim row per claim, adding rows past P5 when needed, and give each its shot. Delete unused rows and this line.>
 
 ## Comparables from the library
 

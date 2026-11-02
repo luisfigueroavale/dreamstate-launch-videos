@@ -10,4 +10,4 @@ Map them to record fields:
 
 Filter in this order: proof type, then category, then length. Keep at most five records. When more than five match, prefer records with a non-empty `scene_cuts` list and an `individual-post` snapshot, then the newest `post_date`.
 
-Numbers never pick a match. A high view count is not a reason to include a record, and a low one is not a reason to drop it. In a local checkout, skip any record that fails `npm run validate`, and say which file and why. Through GitHub, the validator cannot run: check each kept record against the fields in `data/schema.json` that this match reads, skip one that breaks them, say which file and why, and say the full check did not run.
+Numbers never pick a match. A high view count is not a reason to include a record, and a low one is not a reason to drop it. In a local checkout, skip any record that fails `npm run validate`, and say which file and why. Through GitHub, the validator cannot run: check each kept record against `data/schema.json` for every field this skill reads, including `snapshots` and `analysis`, skip one that breaks them, say which file and why, and say the full check did not run.
