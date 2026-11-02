@@ -25,7 +25,7 @@ Follow `docs/skill-frame.md`.
 
 5. Run `study-launch-videos` for comparable launches, and note when the library is pending or has none (`references/proof.md`).
 
-6. Draft twelve to sixteen hooks across the sixteen families and score each one (`references/hooks.md`).
+6. Draft twelve to sixteen hooks from the sixteen families, using at least six families, and score each one (`references/hooks.md`).
 
 7. Pick the top three hooks, each with a first frame, an opening line, and a proof bridge (`references/hooks.md`).
 

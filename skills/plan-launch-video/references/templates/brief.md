@@ -2,7 +2,7 @@
 
 Date: <YYYY-MM-DD>
 Owner: <name>
-Brand files read: identity <status>, voice <status>, style <status>, ideal follower <status>
+Files read: brand/AGENTS.md <status>, identity <status>, voice <status>, audience/AGENTS.md <status>, ideal follower <status>
 
 | Field | Answer | Source |
 |---|---|---|

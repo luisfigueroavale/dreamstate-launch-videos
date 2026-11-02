@@ -1,6 +1,6 @@
 # Timed structures
 
-Starting points, not platform rules. Times are in seconds. Pick the structure from the brief's `Length (seconds)`. For a length between rows, use the nearest row, stretch or trim its beats to fit, and say so in the plan. The channel sets the frame and the pace, not the length. Finding comparables uses the library's own wider bands (see `study-launch-videos`), not this table.
+Starting points, not platform rules. Times are in seconds. Pick the structure from the brief's `Length (seconds)`. For a length between rows, use the nearest row, stretch or trim its beats to fit, and say so in the plan. The channel sets the frame and the pace, not the length. Finding comparables uses the library's own wider bands (see `study-launch-videos`), not this table. The library's `data/structures.json` keeps its own reference beat maps, which differ in places. This table is the planning source, and a plan never edits that file.
 
 | Length | Beats |
 |---|---|

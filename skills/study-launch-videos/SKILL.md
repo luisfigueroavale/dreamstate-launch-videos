@@ -31,7 +31,7 @@ Follow `docs/skill-frame.md`.
 
 7. Draft a Dreamstate launch record in `data/launches/` only after the owner posted it, and only in a local checkout. Through GitHub alone, stop and ask for one (`references/record.md`).
 
-8. Run the library validator and hand the draft record to the owner (`references/record.md`).
+8. Run the library validator and build, and hand the draft record to the owner (`references/record.md`).
 
 ## Dreamstate tools
 

@@ -15,4 +15,4 @@ All of it is a draft. Posting, scheduling, paying, and outreach each need the ow
 
 ## Save
 
-Save the brief, ledger, hooks, script and storyboard, capture list, post and replies, and audit to `drafts/launch-video/<date>-<product>.md`. After the owner posts it, the Launch Video seat may add a library record with `study-launch-videos` rules. That record is a draft until the owner says yes to the commit.
+Save the brief, ledger, hooks, script and storyboard, capture list, post and replies, and audit to `drafts/launch-video/<date>-<product>.md`. After the owner posts it on X and has the status link, the Launch Video seat may add a library record with `study-launch-videos` rules. A post on another channel only, with no X post, gets no library record, because the schema needs an X `post_url`. That record is a draft until the owner says yes to the commit.
